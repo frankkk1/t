@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,电影
+http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKtIenAsKhGIKE3dj_eOtDtE/.m3u8
 #EXTINF:-1 ,无线新闻
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKlT3I1CCRgUt9-bG7ZkVSJg/.m3u8
 #EXTINF:-1 ,翡翠台
