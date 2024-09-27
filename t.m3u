@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,无线新闻
+http://61.238.177.254:30261/stream/channelid/467444975
+#EXTINF:-1 ,翡翠台
+http://61.238.177.254:30261/stream/channelid/1548166379
+#EXTINF:-1 ,HOY
+http://61.238.177.254:30261/stream/channelid/1328960581
 #EXTINF:-1 ,广东民生
 http://www.zzlag.top:9003/hls/34/index.m3u8
 #EXTINF:-1 ,广东珠江
