@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,电影
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKtIenAsKhGIKE3dj_eOtDtE/.m3u8
 #EXTINF:-1 ,无线新闻
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKlT3I1CCRgUt9-bG7ZkVSJg/.m3u8
+http://61.238.177.254:30261/stream/channelid/467444975
 #EXTINF:-1 ,翡翠台
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqMjvn7iVYwGzMGqoeB1naA/.m3u8
-#EXTINF:-1 ,明珠台
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKgU4kftVqoo35I7mXDg90y0/.m3u8
+http://61.238.177.254:30261/stream/channelid/1548166379
+#EXTINF:-1 ,HOY
+http://61.238.177.254:30261/stream/channelid/1328960581
 #EXTINF:-1 ,汕头综合
 http://www.zzlag.top:9003/hls/3/index.m3u8
 #EXTINF:-1 ,汕头经济
