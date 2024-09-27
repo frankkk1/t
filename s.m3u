@@ -5,6 +5,10 @@ http://61.238.177.254:30261/stream/channelid/467444975
 http://61.238.177.254:30261/stream/channelid/1548166379
 #EXTINF:-1 ,HOY
 http://61.238.177.254:30261/stream/channelid/1328960581
+#EXTINF:-1 ,粤语电影1
+http://allinone.netsite.cc/douyu/1226741
+#EXTINF:-1 ,粤语电影2
+http://allinone.netsite.cc/douyu/6566671
 #EXTINF:-1 ,汕头综合
 http://www.zzlag.top:9003/hls/3/index.m3u8
 #EXTINF:-1 ,汕头经济
