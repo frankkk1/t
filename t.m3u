@@ -10,19 +10,19 @@ https://live.hkdvb.com/hls/live/332.m3u8?token=288508739980637
 #EXTINF:-1 ,NOW星影台
 https://live.hkdvb.com/hls/live/138.m3u8?token=288508739980637
 #EXTINF:-1 ,广东民生1
-http://113.15.184.8:8181/tsfile/live/1002_1.m3u8
+http://219.159.194.198:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 ,广东民生2
 http://www.zzlag.top:9003/hls/34/index.m3u8
 #EXTINF:-1 ,广东珠江1
-http://113.15.184.8:8181/tsfile/live/1000_1.m3u8
+http://219.159.194.198:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 ,广东珠江2
 http://www.zzlag.top:9003/hls/31/index.m3u8
 #EXTINF:-1 ,广东影视1
-http://113.15.184.8:8181/tsfile/live/1004_1.m3u8
+http://219.159.194.198:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1 ,广东影视2
 http://www.zzlag.top:9003/hls/33/index.m3u8
 #EXTINF:-1 ,岭南戏曲
-http://113.15.184.8:8181/tsfile/live/1006_1.m3u8
+http://www.zzlag.top:9003/hls/37/index.m3u8
 #EXTINF:-1 ,粤语电影1
 http://allinone.netsite.cc/douyu/1226741
 #EXTINF:-1 ,粤语电影2
