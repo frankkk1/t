@@ -25,10 +25,14 @@ http://allinone.netsite.cc/douyu/6566671
 http://cfss.cc/cdn/dyu/10338873.m3u8
 #EXTINF:-1 ,粤语轮播港剧
 http://cfss.cc/cdn/dyu/9019945.m3u8
-#EXTINF:-1 ,汕头综合
+#EXTINF:-1 ,汕头综合1
 http://116.18.37.171:4000/udp/239.253.43.45:5146
-#EXTINF:-1 ,汕头经济
+#EXTINF:-1 ,汕头综合2
+https://stream1.freetv.fun/shan-tou-zong-he-4.ctv
+#EXTINF:-1 ,汕头经济1
 http://116.18.37.171:4000/udp/239.253.43.46:5146
+#EXTINF:-1 ,汕头经济2
+https://stream1.freetv.fun/shan-tou-jing-ji-sheng-huo-3.ctv
 #EXTINF:-1 ,汕头体育
 http://116.18.37.171:4000/udp/239.253.43.47:5146
 #EXTINF:-1 ,揭阳生活
