@@ -3,30 +3,32 @@
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 ,翡翠台2
 https://live.hkdvb.com/hls/live/81.m3u8?token=288508739980637
+#EXTINF:-1 ,无线新闻1
+https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 ,无线新闻2
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 ,ViuTV
 http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 #EXTINF:-1 ,NOW新闻
 https://live.hkdvb.com/hls/live/332.m3u8?token=288508739980637
 #EXTINF:-1 ,NOW星影台
 https://live.hkdvb.com/hls/live/138.m3u8?token=288508739980637
-#EXTINF:-1 ,广东民生高清
-http://113.109.250.116:9999/udp/239.77.0.5:5146
-#EXTINF:-1 ,广东民生荔枝源
-https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=e40ab3e4d7492e21be5c05ef44861042-F80n9W5evfgISoAcNX80Iqvb1y9BgJMkFAQ0Lmxr7vn2cKW8EFU9LhAjH%2FnONNVlRKOLElb7zc5Now8rAniKokxJeTpKjXzJQ%2BPDRviSx8ot79VlMIxKa3W3ZClMyZD7pUv2caimpfdI697sWFIjIsx9U1FuGvNdSLr2rHTv9GPS0uRLGiA3%2F54oS%2Fnvi78UekJvXt0m7NSf7UNm2rBDAQC%2B9FMpa1BzHX2M47gxTfzozkCRpX2MdpHFnoJjSZEV0LrMCyntnyFEF22raEKztOqJvWpSuDrEnufAbX5%2FM1Wz9qzfe36uYT7G%2FxLHDXb7FKR9pVKFmEzP7fZdDEY1Gw%3D%3D
-#EXTINF:-1 ,广东珠江高清
-http://113.109.250.116:9999/udp/239.77.0.1:5146
-#EXTINF:-1 ,广东珠江荔枝源
-https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=4ba58e7020a4a102849bc0ac3e944810-JicFWO0POJr2boRkL1GPjd69XJOtMCS3BS46P8YflgnKM8Q9HKh5w6B%2FdyHa4YYYMSJ7ASANcVrdsVaR1zVSwWwwkncoFHaqBLLtACizz1dM%2BO7KjdxOO%2F9NwwCPC73bjlDsTeOttgkX2U4emfpYXOu%2Fj3AoZDoFfLlm%2FdUKJBl4YFJN41IQWTSlIffjyQGXcy6N9zX8H20D3AUum6ryd5ib7cgd%2FejBYZ6mlVpGE%2FqVrPtwZgEjr02bUk3CwqFnGvStenuJ7Oni5suToyCC7lY6wyFETHAT8KaunY5PWcWYkwZh7L7ciXlw7E6Z9vG64fbywwW%2BZtPPW704mfRebA%3D%3D
-#EXTINF:-1 ,广东影视高清
-http://113.109.250.116:9999/udp/239.77.0.217:5146
-#EXTINF:-1 ,广东影视荔枝源
-https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=3631d3189c0d966bd9bba03a41b03f12-9eBwP5dmfjwhb0bKsxjYP0vSX9S0UaGDQJEhFKTEjzwTXS0rt%2FWbuf61tnHy8esJpg8nphZynDLena%2B%2BeYDXS3z3nkE8%2FxNxnR92s%2FhHbJHIqcsyR7NJl4uCKzGXTtjtwxT3kJMwAeiOgrBZAnHGqVkzKz6zvoE12%2FOxGM%2Bz3Y6WTmXx%2BS3t3ExWDSxvyw0eYFOolhx%2BKvrj3dMjKkSEzvuy0iOnCUncn37NJp4MhFjWjBmvcTiYmZozLph%2Fpj7guuIttqRfwem4gfucohmHBRVnEdsZBN4J76ry%2BpXDcKZSWz2pL%2FbzuYhQ4QWUfwS7wy8rJZkxH1fC3nFexEPI%2Bw%3D%3D
+#EXTINF:-1 ,广东民生
+http://116.18.37.171:4000/udp/239.77.0.225:5146
+#EXTINF:-1 ,广东影视
+http://116.18.37.171:4000/udp/239.77.0.217:5146
+#EXTINF:-1 ,广东珠江
+http://116.18.37.171:4000/udp/239.77.0.1:5146
 #EXTINF:-1 ,岭南戏曲
-https://tcdn.itouchtv.cn/live/lnxq.m3u8?t_token=b20e7bdf4bfd1251134194e35a58d24b-DiznjyrZVjZ7XQ8U1oNHqeDqnczHulVOR16EqljCOftBpSxcSZLhyQnL0jj3NjHzeHlThuK17NC9Od2nNkKNgB7%2FABaB8qc36SjA5uK1cwlaGa8llYwhu05ZPUiU4nXUeINaxNYiQIqjroUk77llxprw2l3ZLbenX3cUspz0ChL2iyGSHV8tF4jBemkhqJqZVmMtHmryaiNvkNnVA41cLbqUUKOF6rO%2BQdm9e6W8EbI2MTgpSS7Cw0SBB50g05cvVwgvtaExBHsdo4DoZIYeUH%2FRaYvxPk9GZfB%2F07t4leOCFy8DeeJPICeY1%2F5aA8eUjmpa59%2BZhQeC6%2BJ6Q8Flrg%3D%3D
+http://116.18.37.171:4000/udp/239.77.0.16:5146
 #EXTINF:-1 ,粤语电影1
 http://allinone.netsite.cc/douyu/1226741
 #EXTINF:-1 ,粤语电影2
 http://allinone.netsite.cc/douyu/6566671
+#EXTINF:-1 ,粤语剧集轮播
+http://cfss.cc/cdn/dyu/10338873.m3u8
+#EXTINF:-1 ,粤语轮播港剧
+http://cfss.cc/cdn/dyu/9019945.m3u8
 #EXTINF:-1 ,广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 ,广西卫视
