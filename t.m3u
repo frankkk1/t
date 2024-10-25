@@ -13,10 +13,14 @@ http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 https://live.hkdvb.com/hls/live/332.m3u8?token=288508739980637
 #EXTINF:-1 ,NOW星影台
 https://live.hkdvb.com/hls/live/138.m3u8?token=288508739980637
-#EXTINF:-1 ,广东民生
+#EXTINF:-1 ,广东民生1
 http://116.18.37.171:4000/udp/239.77.0.225:5146
-#EXTINF:-1 ,广东影视
+#EXTINF:-1 ,广东民生2
+https://stream1.freetv.fun/yan-dong-min-sheng-4.ctv
+#EXTINF:-1 ,广东影视1
 http://116.18.37.171:4000/udp/239.77.0.217:5146
+#EXTINF:-1 ,广东影视2
+https://stream1.freetv.fun/a452aae6a72b851baacafbccc8c51f1e74d72824f7da72a4acb1c0cdaeab4538.ctv
 #EXTINF:-1 ,广东珠江
 http://116.18.37.171:4000/udp/239.77.0.1:5146
 #EXTINF:-1 ,岭南戏曲
