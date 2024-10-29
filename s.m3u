@@ -41,14 +41,26 @@ http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8
 http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8
 #EXTINF:-1 ,广东珠江
 http://www.namewee.xyz/gudou.php?id=364&id=gdzhujiangHD_7500
+#EXTINF:-1 ,广东民生
+http://www.namewee.xyz/gudou.php?id=364&id=1455_4500
+#EXTINF:-1 ,广东影视
+http://www.namewee.xyz/gudou.php?id=364&id=1458_4500
 #EXTINF:-1 ,广东少儿
 http://www.namewee.xyz/gudou.php?id=364&id=1457_4500
 #EXTINF:-1 ,广东体育
 http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
 #EXTINF:-1 ,岭南戏曲
 http://www.namewee.xyz/gudou.php?id=1460
+#EXTINF:-1 ,广州综合
+http://www.namewee.xyz/gudou.php?id=364&id=guangzhou_1500
+#EXTINF:-1 ,广州新闻
+http://www.namewee.xyz/gudou.php?id=364&id=gznews_1500
+#EXTINF:-1 ,广东新闻
+http://www.namewee.xyz/gudou.php?id=364&id=1454_4500
 #EXTINF:-1 ,凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 ,嘉佳卡通
+http://www.namewee.xyz/gudou.php?id=364&id=1459
 #EXTINF:-1 ,广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 ,广西卫视
