@@ -18,30 +18,14 @@ https://live.hkdvb.com/hls/live/332.m3u8?token=288508739980637
 https://live.hkdvb.com/hls/live/138.m3u8?token=288508739980637
 #EXTINF:-1 ,HOY78
 https://live.hkdvb.com/hls/live/78.m3u8?token=288508739980637
-#EXTINF:-1 ,广东民生1
-http://113.15.187.190:8181/tsfile/live/1002_1.m3u8
-#EXTINF:-1 ,广东民生2
-http://222.218.158.86:8181/tsfile/live/1002_1.m3u8
-#EXTINF:-1 ,广东民生3
-http://219.159.194.66:8181/tsfile/live/1002_1.m3u8
-#EXTINF:-1 ,广东影视1
-http://113.15.187.190:8181/tsfile/live/1004_1.m3u8
-#EXTINF:-1 ,广东影视2
-http://222.218.158.86:8181/tsfile/live/1004_1.m3u8
-#EXTINF:-1 ,广东影视3
-http://219.159.194.66:8181/tsfile/live/1004_1.m3u8
-#EXTINF:-1 ,广东珠江1
-http://113.15.187.190:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 ,广东珠江2
-http://219.159.194.66:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 ,广东珠江3
-http://222.218.158.86:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 ,岭南戏曲1
-http://219.159.194.108:8181/tsfile/live/1006_1.m3u8
-#EXTINF:-1 ,岭南戏曲2
-http://113.15.187.190:8181/tsfile/live/1006_1.m3u8
-#EXTINF:-1 ,岭南戏曲3
-http://222.218.158.86:8181/tsfile/live/1006_1.m3u8
+#EXTINF:-1 ,广东民生
+https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=fc3edb35b379f1c5b363727a1ee1a85f-fD0RC%2FkWmDQ%2BlFp1eqSmL1ADzrDEU8Dy71F%2FgV31jOedQ8p9U3UikZTFvmXUQRwdUbY0kX0JIuaMA%2BnhQ7kWDzGLJ8mXJ6zNr%2BZ7VnyYZzeMGrlqeFX71R9qY8znrwDujpGdJLVvsjhljp76EoMqwIlBxJ7qrEyAPw5f1XSE0c4%2BDnGJC31cscuovrODLHAPv0LNRDkog3t%2Fea%2B%2Bsz6paj5206kjTZluA1SQzZUO0ZQ%2FOGMwXuCi5%2FNQLhTgHiWl8mrJpiPyAT4YbHNbDuAbVxzI5K%2FIMHJqQV31fUAMwsR1cUSj7TF9BagQwi1%2FA57Az18Pr1JpEQ3IA6s4DFMvEA%3D%3D
+#EXTINF:-1 ,广东影视
+https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=e4e5e76158ccdb13c821886d09622869-qe5Qlpnp5feWpvXqmenrZk%2FGZW82uewbO2sH5QKf2EUdsAilozhFWMk0m8qsGYvoPglLkvyo4qyJ%2BbhgeQ1PXv3tiOPTOC3fRKMftqO9Oej%2FwaXOUsF%2BdeEiEH3LzB3oULT%2FIn%2BNH3aGIQoHBikAgZz3XBU8sDFcCRG1Rlq3ZFDOWBppzxNCvm%2BwTwdw7WWsZWA3ughC6yPsA%2BfXDjBV7Y19mML92kAobTcVxvXI6tqpWQ9C0phoO5AdxLks%2BmdfaIMgDdi7uK2%2B7qHRA7aVrrMvonaCkbZ1I8jWMbmOnaAFk9p89%2FHP38hTIdyliZ0kXqfjIL0KwEj2Se%2FCFb91eA%3D%3D
+#EXTINF:-1 ,广东珠江
+https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=461c18de5eb3e8abae77ab8911526d02-sdKNVwhw%2Fy7an8Ms9NMR75Q5CbPpJbfeZ00KGSn4qg2jhUqtiZP7CN1X0SG1roJILeHCO%2FE1xNl81piLISr1vWm4GeSeRYSqRUspniDqwdINIi9IedSZILvUTWjL7dD1Y9HLJasf1ndrxloPI25xk5PXBgU5AzP2Bs9tJopQBZSBPKyR0VM47MlzYtMVP5%2Bv3GelGLNs9hgvL5y504o0aGXmLTjEi0Z69K7Jp5ouGf7vVLiJ%2BGj2ddy6x%2BAc0EAr7QT2BOPRVd53nKJu5zqBZwPVK5mv9gBVd7MryEs911Kij3vXogwHqznTR%2FRrc01F%2FSceY5qWsAbus6P4oZwinw%3D%3D
+#EXTINF:-1 ,岭南戏曲
+https://tcdn.itouchtv.cn/live/lnxq.m3u8?t_token=d11aaae44afb01e8486ca1be616a84c3-RTgZN6aU7uo7pg7khmcBvRHScQdhvJu51grsrdFAJezSOWg5GyFkVAF1yj05FEfxLhHUnmR8xhIiXe9dj8OFM0PdaWpUSHvljBSlpwC0nDkePNaN8cXi83M9mKdaCVHVNmFant9HejXL%2FNISGHvr3o5m9QhQJcNfzPbxr%2FU9UbATJFdLWL7wUEJX%2B68tN%2BFz4s%2BG%2FbZETWBkXTicVI5UjiM%2FNj%2ByPBCVdgpU7cwy1YKh3UsAcFtsWHY%2BIWo6DXUkzN2oknZTUJf6e15%2Fxh6B0ltMLDjxfxo9%2B77%2F7y9%2B7oVMJuinfBLRjWRvhF4ugxEUIigQhRIDsbLMaGyk86Mb5Q%3D%3D
 #EXTINF:-1 ,粤语电影1
 http://allinone.netsite.cc/douyu/1226741
 #EXTINF:-1 ,粤语电影2
