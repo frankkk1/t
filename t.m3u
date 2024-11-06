@@ -15,17 +15,13 @@ http://allinone.netsite.cc/douyu/1226741
 #EXTINF:-1 ,粤语电影2
 http://allinone.netsite.cc/douyu/6566671
 #EXTINF:-1 ,广东民生
-http://58.254.14.91:808/hls/58/index.m3u8
+https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=ee072c8f7c9589e32a398d828cd68b90-78z2%2Blit2zx6Afk1ui8nFJnV%2BZOzo7Oif88iQ8dkxR4pQWkRZLwlfWGX2VcHGz11miKHfTipYq668tiavrYc3kBve5RSOjDmt4HNO6VyDzkgzKAyZAva%2Ft2O7ZQfRc9%2FGbBGBkTpyrTKy6ruID%2FT5BOkZ2slr%2FQOqsg%2Fgyx9lcJXobEXDvgMwRV4l8uHIN%2FaVnuNozHd3b5dYFcm6Yj9FXrk26cD3SD9jEjExru3GCYEGOt4cyyxBqJLodH%2BHqF1EAmDgcp11qNFs%2B0zZmYuFKY1vb3Jb2uWm6oG9nA%2B3w6t20OXh40gWAkioYNkPV4G0V6mZUjF4kiay2ksQ1sy3A%3D%3D
 #EXTINF:-1 ,广东影视
-http://113.87.167.49:9600/hls/25/index.m3u8
-#EXTINF:-1 ,广东影视高清
-http://58.254.14.91:808/hls/53/index.m3u8
-#EXTINF:-1 ,广东珠江1
-http://113.87.167.49:9600/hls/17/index.m3u8
-#EXTINF:-1 ,广东珠江2
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=b99fa99324636d3017b82e08ed4df7c0-lCtyVlBj2LYNS41XP91ETcT4tgwPBtKBB055BYe49t%2FHTnC9NX5%2FrQ2%2FexV0%2BJgnblVRLTG9VZf9%2FqygPGYUtj6D2Ek1fO7mu4xIr80kaUxlEAoCfpMBqemnwLf5m312L5w4YXcjhSiZu4CdXIAX67XhOd3D92WqIhlc0p3kCcEPwH%2BKoj5W6%2Bi3Y6RIHTL5rpvu0pFtw2DDMqU3Y22IOHr87WAX1gI5TCGPETYTGfai9KzUxB16USFSyqW8vbOIw8KLLNIMrjFD0qq8ZCgkTlm%2FulJI5TUpw7ltrJsNopygKAhs6vdHG1a44kTz29I8C5lT3TOxXScTzVDcvUqjKA%3D%3D
+#EXTINF:-1 ,广东珠江
+https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=8ebcfee401df940a500daf5f1de7e969-XyBiOuYvdSjPCWMfj%2FnvoaDug4vmSmLGAqGOUmCU8fiXjNFI%2FKzynDGA2qbuQD3EnvhbTe6Y%2BlNpWr0Uhj8XiT8sRp%2B0K4PCljH6z2Q%2F%2FY3O8Dcadl9rg9shWpWBStJr28LW4CKZXTA3r9FUc25CwLstfGiDSDtsrhQZNR9BFMUdThkcPQePznWvLZMPWGCU%2FRlWD7R47Xb%2FLP2XUD4TKJk%2FfO6VAf34hpjQRzDjMnUeiL6lpEhm4n6Qrvf8ocW%2F0AozBJuYuWV61bxecaCBDJOzbfHdKcJ87BIHLugHX9TRESLy2yNHFnSyNt9DQiH2jSt9D6dsVKwU7WqJ1njaow%3D%3D
 #EXTINF:-1 ,岭南戏曲
-http://58.254.14.91:808/hls/57/index.m3u8
+https://tcdn.itouchtv.cn/live/lnxq.m3u8?t_token=5afa274c163ef6ea677ec64d71ce9d75-D1YlNJTn3CtvT%2By8wVdW%2FFBSKV%2F%2BJL7zDggP1NAXDkshzKQQ5EGg9Y4BdlunzsNZaCNjtt7VhX7dti99Hc9XLlvuKqCmWUQlAVqYWy9gc6v2xhxR9G39EfduVvk%2BtiN7rT9mGot9nWmaQTJJvy0VC7NMowAnjawTJq%2BRxSsTXZVeCeMg7AIdfUHLpuIRb9Ns9Cw5LVD97h9VttZlHe65lC4AUOrFuXk0c%2BWN825sIuz2%2BTja69DByzwjN6hJrUxIo9REmoD%2FeYsXm2SRZf4dx5s78zuvwiW35%2FXxSHPIn4Y815V7hUnDhqvrwvMojbDEDsniYCUOr%2Bf2tBQAVCLbvA%3D%3D
 #EXTINF:-1 ,粤语电影1
 http://allinone.netsite.cc/douyu/1226741
 #EXTINF:-1 ,粤语电影2
