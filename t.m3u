@@ -1,14 +1,22 @@
 #EXTM3U
-#EXTINF:-1 ,翡翠台HK
+#EXTINF:-1 ,翡翠台HK1
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 ,無綫新聞
+#EXTINF:-1 ,翡翠台HK2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 ,無綫新聞1
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 ,無綫新聞2
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 ,無綫華麗
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 ,HOY 77
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 ,明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 ,TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 ,千禧經典台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 ,ViuTV
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 ,TVB Plus
@@ -21,14 +29,12 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 ,鳳凰香港
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 ,粤语电影1
+#EXTINF:-1 ,粵語電影1
 http://allinone.netsite.cc/douyu/1226741
-#EXTINF:-1 ,粤语电影2
+#EXTINF:-1 ,粵語電影2
 http://allinone.netsite.cc/douyu/6566671
-#EXTINF:-1 ,粤语剧集轮播
+#EXTINF:-1 ,粵語劇集輪播
 http://cfss.cc/cdn/dyu/10338873.m3u8
-#EXTINF:-1 ,粤语轮播港剧
-http://cfss.cc/cdn/dyu/9019945.m3u8
 #EXTINF:-1 ,广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 ,广西卫视
