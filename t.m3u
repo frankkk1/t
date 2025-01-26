@@ -33,8 +33,10 @@ https://live.hkdvb.com/hls/live/82.m3u8?token=288508739931075
 https://live.hkdvb.com/hls/live/138.m3u8?token=288508739931075
 #EXTINF:-1 ,Now爆谷
 http://205.185.123.236:8899/1/baogutai/baogu.m3u8
-#EXTINF:-1 ,美亞電影台
+#EXTINF:-1 ,美亞電影台 1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 ,美亞電影台 2
+https://live.hkdvb.com/hls/live/201.m3u8?token=288508739931075
 #EXTINF:-1 ,AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 ,纬来精彩
@@ -42,11 +44,11 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 ,NHK WORLD
 http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1 ,鳳凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+https://live.hkdvb.com/hls/live/504.m3u8?token=288508739931075
 #EXTINF:-1 ,鳳凰資訊
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+https://live.hkdvb.com/hls/live/505.m3u8?token=288508739931075
 #EXTINF:-1 ,鳳凰香港
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+https://live.hkdvb.com/hls/live/85.m3u8?token=288508739931075
 #EXTINF:-1 ,欧美電影
 http://zzy789.xyz/douyu1.php?id=20415
 #EXTINF:-1 ,粵語電影
