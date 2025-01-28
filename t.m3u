@@ -53,59 +53,53 @@ https://live.hkdvb.com/hls/live/85.m3u8?token=288508739931075
 http://zzy789.xyz/douyu1.php?id=20415
 #EXTINF:-1 ,粵語電影
 http://zzy789.xyz/douyu1.php?id=6566671
-#EXTINF:-1 ,黑莓电影
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 ,广东珠江
 https://live.hkdvb.com/hls/live/502.m3u8?token=288508739931075
 #EXTINF:-1 ,广东体育
 https://live.hkdvb.com/hls/live/503.m3u8?token=288508739931075
 #EXTINF:-1 ,广东卫视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsOwFRXT0-jLOJsddrbdfkw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPSqjXe5wfGqWHn9iVn3DhQ%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.33:8192
 #EXTINF:-1 ,浙江卫视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.29:8168
 #EXTINF:-1 ,深圳卫视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND
+http://120.38.46.131:9999/rtp/239.61.3.46:9794
 #EXTINF:-1 ,江苏卫视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.30:8174
 #EXTINF:-1 ,湖南卫视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EZZewXKQnnKZ2h4P_GwVSsw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCoAEKye18sB9_6jeKL3Z%2CEND
-#EXTINF:-1 ,湖北卫视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND
-#EXTINF:-1 ,天津卫视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ERZemtK6J9gJ5YwzKz5lxAg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNFwBXcmFDBTuNWxp8W6vXg%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.31:8180
 #EXTINF:-1 ,CCTV-1综合
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+http://120.38.46.131:9999/rtp/239.61.3.60:9878
 #EXTINF:-1 ,CCTV-2财经
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXKnFU9T505QMpWLcYnx3uQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNbiZgR_ywo1Ht-jnnl-lZ2%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.174:9032
 #EXTINF:-1 ,CCTV-3综艺
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://120.38.46.131:9999/rtp/239.61.3.34:9722
 #EXTINF:-1 ,CCTV-4中文国际
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.206:9224
 #EXTINF:-1 ,CCTV-5体育
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://120.38.46.131:9999/rtp/239.61.2.171:9014
 #EXTINF:-1 ,CCTV-5+体育赛事
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.3.35:9728
 #EXTINF:-1 ,CCTV-6电影
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://120.38.46.131:9999/rtp/239.61.3.36:9734
 #EXTINF:-1 ,CCTV-7国防军事
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.175:9038
 #EXTINF:-1 ,CCTV-8电视剧
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://120.38.46.131:9999/rtp/239.61.3.37:9740
 #EXTINF:-1 ,CCTV-9纪录
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E4MVygPhhOzP-asbwwK-xxQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNrSBaNpUlqzSGshVHVkjfP%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.172:9020
 #EXTINF:-1 ,CCTV-10科教
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.176:9044
 #EXTINF:-1 ,CCTV-11戏曲
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.21:8120
 #EXTINF:-1 ,CCTV-12社会与法
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.177:9050
 #EXTINF:-1 ,CCTV-13新闻
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.23:8132
 #EXTINF:-1 ,CCTV-14少儿
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.178:9056
 #EXTINF:-1 ,CCTV-15音乐
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.25:8144
 #EXTINF:-1 ,CCTV-16奥林匹克
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.2.19:8108
 #EXTINF:-1 ,CCTV-17农业农村
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.38.46.131:9999/rtp/239.61.3.9:9572
