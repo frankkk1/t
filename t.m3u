@@ -29,6 +29,10 @@ http://m.osvs.asia:8000/bysid/96
 https://live.hkdvb.com/hls/live/332.m3u8?token=288508739931075
 #EXTINF:-1 ,TVB Plus
 https://live.hkdvb.com/hls/live/82.m3u8?token=288508739931075
+#EXTINF:-1 ,澳视澳门
+http://cdn.132.us.kg/live/asam/stream.m3u8
+#EXTINF:-1 ,澳门Mac
+http://cdn.132.us.kg/live/as/stream.m3u8
 #EXTINF:-1 ,Now星影台
 https://live.hkdvb.com/hls/live/138.m3u8?token=288508739931075
 #EXTINF:-1 ,Now爆谷
