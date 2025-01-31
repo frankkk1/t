@@ -10,13 +10,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 ,無綫華麗
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 ,明珠台
-https://live.hkdvb.com/hls/live/84.m3u8?token=288508739931075
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 ,澳门卫视
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 ,HOY TV
-https://live.hkdvb.com/hls/live/77.m3u8?token=288508739931075
-#EXTINF:-1 ,HOY 资讯台
-https://live.hkdvb.com/hls/live/78.m3u8?token=288508739931075
 #EXTINF:-1 ,TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 ,千禧經典台
@@ -25,22 +21,18 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 http://m.osvs.asia:8000/bysid/99
 #EXTINF:-1 ,ViuTV 6
 http://m.osvs.asia:8000/bysid/96
-#EXTINF:-1 ,Now 新闻
-https://live.hkdvb.com/hls/live/332.m3u8?token=288508739931075
 #EXTINF:-1 ,TVB Plus
-https://live.hkdvb.com/hls/live/82.m3u8?token=288508739931075
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 ,澳视澳门
 http://cdn.132.us.kg/live/asam/stream.m3u8
 #EXTINF:-1 ,澳门Mac
 http://cdn.132.us.kg/live/as/stream.m3u8
-#EXTINF:-1 ,Now星影台
-https://live.hkdvb.com/hls/live/138.m3u8?token=288508739931075
+#EXTINF:-1 ,HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 ,Now爆谷
 http://205.185.123.236:8899/1/baogutai/baogu.m3u8
-#EXTINF:-1 ,美亞電影台 1
+#EXTINF:-1 ,美亞電影台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 ,美亞電影台 2
-https://live.hkdvb.com/hls/live/201.m3u8?token=288508739931075
 #EXTINF:-1 ,AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 ,纬来精彩
@@ -48,58 +40,70 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 ,NHK WORLD
 http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1 ,鳳凰中文
-https://live.hkdvb.com/hls/live/504.m3u8?token=288508739931075
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 ,鳳凰資訊
-https://live.hkdvb.com/hls/live/505.m3u8?token=288508739931075
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 ,鳳凰香港
-https://live.hkdvb.com/hls/live/85.m3u8?token=288508739931075
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 ,欧美電影
 http://zzy789.xyz/douyu1.php?id=20415
 #EXTINF:-1 ,粵語電影
 http://zzy789.xyz/douyu1.php?id=6566671
+#EXTINF:-1 ,黑莓電影
+http://168.138.9.147:50001/1000000004000019624/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 ,广东珠江
-https://live.hkdvb.com/hls/live/502.m3u8?token=288508739931075
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 ,广东体育
-https://live.hkdvb.com/hls/live/503.m3u8?token=288508739931075
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 ,广东卫视
-https://www.freetv.top/migu/608831231.m3u8?migutoken=a3507f71846fb8c8ce423fac2278747f0f299c1d54e39eab0f6ad4a7828c569d61cdc81df6df253417efb753136138296d8b75d0b3372eb4db28d5ca8aae453e8dcb81f7ed43bcbd2f69a89bf0
+http://168.138.9.147:50001/1000000001000028357/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 ,大湾区卫视
 https://www.freetv.top/migu/608917627.m3u8?migutoken=22c28ab72744cd3ae1500fcedd9aa645eb0c35326cccb8cc6253c912a2fbdadb109d5f005d7dbbb62dbcb2e1f9a30bfa1935a4a046787bb5ac3e9ac1b5b654c16c2f7753fc37d2d51b2916310b
+#EXTINF:-1 ,深圳卫视
+http://168.138.9.147:50001/5000000004000007410/bestzb/index.m3u8$8M1080_百视通
+#EXTINF:-1 ,广西卫视
+http://168.138.9.147:50001/5000000011000031118/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 ,浙江卫视
+http://168.138.9.147:50001/6000000001000032070/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,江苏卫视
-https://www.freetv.top/migu/623899368.m3u8?migutoken=4dd4b4b9e65aedf9a69ce7aa66b8daa27bb37cd20c5b69c472a022ce240593d25ee65434f22ceca390a0da26ca8a97d62489ec3005b0f01baad65c3a99cbe12eed5d925720e172cafea5d6bfc6
+http://168.138.9.147:50001/6000000001000014861/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 ,湖南卫视
+http://168.138.9.147:50001/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 ,湖北卫视
-https://www.freetv.top/migu/947472496.m3u8?migutoken=bba5a970ce114fafd64bca23b7b50a79d0f932b772f4d9c209414defc29b55140664b61dc3413c1a91e0b3d8af88ea1c2a7706e1bb66d943b8a6df1f104519416374f6f6d718d60b0f398aa105
+http://168.138.9.147:50001/6000000001000015436/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-1综合
-https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be
+http://168.138.9.147:50001/6000000001000029752/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-2财经
-https://www.freetv.top/migu/631780532.m3u8?migutoken=f1ea6162bf184749e3dee945ef1c611efc841f280c1c972432874810b37debb4321af74f5ebcd6c41d7e0980cae4b591eaddcbd8a4b834c71491dbe3a6abacbbd5bcb2e9a43458f6987dbc3f23
+http://168.138.9.147:50001/6000000001000014161/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-3综艺
-https://www.freetv.top/migu/624878271.m3u8?migutoken=ab337350191d49738c0947c4edfb2d72445dadbfd53e36b287a30881028262fffbe9ba284ac062a14452f0d90c7a75d16101edb3adc14999ae8771aabc77b40c78d14137bb14e68fd6cd1a8d67
+http://168.138.9.147:50001/6000000001000022313/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-4中文国际
-https://www.freetv.top/migu/631780421.m3u8?migutoken=fe6cd1545652624283a2e4057669faa6c3e8bf614112c86afd0cdce8e7218377589401d30c999378eac2d10283a75d3cead5332d152c8aa14a139c832323984a8a510f738a0cacdcc21e30686f
+http://168.138.9.147:50001/5000000011000031102/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 ,CCTV-5体育
-https://www.freetv.top/migu/641886683.m3u8?migutoken=f4028150ccebb24672bb134ff9263dc2fa555f760bd7f0624f98a260402d38ab91417925cf800517a7c1b877a15425e85b65b6a16be7fe88d145c2cb2d42af684846c5a89a5c22eb739e0e52cf
+http://168.138.9.147:50001/6000000001000016431/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-5+体育赛事
-https://www.freetv.top/migu/641886773.m3u8?migutoken=2725923dc731f340aa761620c3dc1841866d2a5734af94919f920321144434ccb32107fea453a21d739f1acbd6dc1df1c659dfc3ed4f15502642b270cfa4c2716fe012c9b9686f4c1ca82c3cc8
+http://168.138.9.147:50001/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-6电影
-https://www.freetv.top/migu/624878396.m3u8?migutoken=0d8588633c58f08d2bb7c5dee4aefd277a9cb96188c78bdc8952d2d9706771bc03e699a51fee7e21bb7943cf1a6e95b40d3cd44969dd935526211d57d91a0fd2db4824cf962245d0e1a40cd557
+http://168.138.9.147:50001/6000000001000004574/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-7国防军事
-https://www.freetv.top/migu/673168121.m3u8?migutoken=44446ab398991313e6a822efdaec82f3b845a2e8f141c172aa857c477255724bbb28fc01d33f764c51106c446af1c57e8815b58822075b194f4cf55cde28fe55f54330d4586c92e75e8aa50a48
+http://168.138.9.147:50001/6000000001000009055/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-8电视剧
-https://www.freetv.top/migu/624878356.m3u8?migutoken=6711ae6ca5509da380a6a30bd995047b1ae797583ca2dd0083a8d8b8bb2ba6fa3bb6b0bc233433fe5d323af8082c0dd1ac77b23d96c0acf9f2a70a565ee34dd210938f6eb56ca096b8f5d739d8
+http://168.138.9.147:50001/6000000001000001070/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-9纪录
-https://www.freetv.top/migu/673168140.m3u8?migutoken=a6f3e71bb2bb9d74426a1761b5d2daf69d595aebfafc6e4a7bac09190d4545961d1cc02d05117f0a2e2ef42ebdc9f2520b8f601aab6252de7373f68c95aa3277f6c51bae97dd75144efc7ed543
+http://168.138.9.147:50001/6000000001000032162/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-10科教
-https://www.freetv.top/migu/624878405.m3u8?migutoken=f0b86560ac2db6d1739b2d3933454ec45ad77c674c2d819d21044045a22081162f8b0fb669c07ed1e27c89443736c0d5a57dbe9c236c780256572cc723d44356e6faeb14252611ed5fe94f4e51
+http://168.138.9.147:50001/6000000001000031506/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-11戏曲
-https://www.freetv.top/migu/667987558.m3u8?migutoken=ddfbce34f49677b64c83a71c6ad66f99e66342b5d60e6508ff1f73b30c135b124d1686291510ef3897ed1bb8b0364f9727964bc3a2b8cbfca603679153658eeb91dc60f4173acb40b4358155ca
+http://168.138.9.147:50001/5000000011000031106/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 ,CCTV-12社会与法
-https://www.freetv.top/migu/673168185.m3u8?migutoken=ff6a5a89e6ad0f73cd78424df3be0abe3743e8bbd37698f2dcee8ece0d6ffbe0c1205c704c08924958889799dcc66d9333f4273e5dc9ead670713fd2b2292e201873fb66020ec85899c7bd2a05
+http://168.138.9.147:50001/6000000001000022586/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 ,CCTV-13新闻
-https://www.freetv.top/migu/608807423.m3u8?migutoken=984eeb69d8d27bb312a76d64b235debb761494aa4ea784c55fdf8036de050dd51ac220cf3fcdf76325b5b2e74ac94f4c57ff144b796fe1e61fe310bff6e9ef75029c570e0368c2c889015ae948
+http://168.138.9.147:50001/5000000011000031108/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 ,CCTV-14少儿
-https://www.freetv.top/migu/624878440.m3u8?migutoken=8f6263d4f2266e519927a4f86e6ae5fbdfac6172b48ea481b789a04b7a660d66b86b845e5855e2c20c21642714af219befd11683228eb0ce1fca8c3be8e079693b098e81b933fe935ccdd70381
+http://168.138.9.147:50001/5000000004000006673/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 ,CCTV-15音乐
-https://www.freetv.top/migu/673168223.m3u8?migutoken=2e447cfb236b9b9208459f01d54ae98883acf054a4e4609e30d1be458e4e7a995a0759ed44dbd259e7056bccc72093ec50e04a2928f93baac81f4bd99cbbc124ff2052a338074106ac0ba6ff07
+http://168.138.9.147:50001/5000000011000031109/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 ,CCTV-16奥林匹克
+http://168.138.9.147:50001/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 ,CCTV-17农业农村
-https://www.freetv.top/migu/673168256.m3u8?migutoken=cf66ef854495ba1b54b33614854cb3fa8d349cbfd2c569443350ddd5881df8f56b04f93b94ac7e77059d5474a28dd107e8471cd79493d12b367acc72d3475cc8f11168388c82a3d33c3e64191f
+http://168.138.9.147:50001/1000000006000268004/ystenlive/index.m3u8$8M1080_易视腾
