@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,翡翠台HK1
+#EXTINF:-1 ,翡翠台HK
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 ,翡翠台HK2
+#EXTINF:-1 ,翡翠台HK 4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 ,翡翠台CN
 http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
@@ -9,6 +9,12 @@ http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 ,無綫新聞2
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 ,澳门卫视
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 ,澳视澳门
+http://cdn.132.us.kg/live/asam/stream.m3u8
+#EXTINF:-1 ,澳门Mac
+http://cdn.132.us.kg/live/as/stream.m3u8
 #EXTINF:-1 ,無綫華麗
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 ,HOY 77
@@ -30,13 +36,15 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 ,鳳凰資訊
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 ,鳳凰香港
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 ,欧美電影
+http://zzy789.xyz/douyu1.php?id=20415
 #EXTINF:-1 ,粵語電影1
-http://allinone.netsite.cc/douyu/1226741
+http://zzy789.xyz/douyu1.php?id=6566671
 #EXTINF:-1 ,粵語電影2
-http://allinone.netsite.cc/douyu/6566671
-#EXTINF:-1 ,粵語劇集輪播
-http://cfss.cc/cdn/dyu/10338873.m3u8
+http://zzy789.xyz/douyu1.php?id=1226741
+#EXTINF:-1 ,黑莓電影
+http://168.138.9.147:50001/1000000004000019624/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 ,汕头综合
 http://www.namewee.xyz/gudou.php?id=shantouyitaogaoqing_4500
 #EXTINF:-1 ,汕头经济
@@ -61,36 +69,46 @@ http://www.namewee.xyz/gudou.php?id=364&id=gdzhujiangHD_7500
 http://www.namewee.xyz/gudou.php?id=364&id=1455_4500
 #EXTINF:-1 ,广东影视
 http://www.namewee.xyz/gudou.php?id=364&id=1458_4500
+#EXTINF:-1 ,广州综合
+http://www.namewee.xyz/gudou.php?id=364&id=guangzhou_1500
+#EXTINF:-1 ,广州新闻
+http://www.namewee.xyz/gudou.php?id=364&id=gznews_1500
+#EXTINF:-1 ,广州影视
+http://www.namewee.xyz/gudou.php?id=364&id=gzfilms_1500
 #EXTINF:-1 ,嘉佳卡通
 http://www.namewee.xyz/gudou.php?id=364&id=1459
-#EXTINF:-1 ,廣東少兒
+#EXTINF:-1 ,广东少儿
 http://www.namewee.xyz/gudou.php?id=364&id=1457_4500
-#EXTINF:-1 ,廣東體育
+#EXTINF:-1 ,广东体育
 http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
-#EXTINF:-1 ,嶺南戲曲
+#EXTINF:-1 ,岭南戏曲
 http://www.namewee.xyz/gudou.php?id=1460
-#EXTINF:-1 ,廣東新聞
+#EXTINF:-1 ,广东新闻
 http://www.namewee.xyz/gudou.php?id=364&id=1454_4500
-#EXTINF:-1 ,廣東衛視
+#EXTINF:-1 ,大湾区卫视
+http://www.namewee.xyz/gudou.php?id=364&id=1456_4500
+#EXTINF:-1 ,广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 ,廣西衛視
+#EXTINF:-1 ,廣西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-#EXTINF:-1 ,浙江衛視
+#EXTINF:-1 ,浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 ,雲南衛視
+#EXTINF:-1 ,云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1 ,四川衛視
+#EXTINF:-1 ,四川卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 ,天津衛視
+#EXTINF:-1 ,天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 ,深圳衛視
+#EXTINF:-1 ,深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 ,江蘇衛視
+#EXTINF:-1 ,江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 ,湖南衛視
+#EXTINF:-1 ,湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 ,湖北衛視
+#EXTINF:-1 ,湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 ,福建东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 ,CCTV-1綜合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 ,CCTV-2財經
@@ -119,6 +137,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 ,CCTV-14少兒
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 ,CCTV-15音乐
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 ,CCTV-16奧林匹克
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 ,CCTV-17農業農村
