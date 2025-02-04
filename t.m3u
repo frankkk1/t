@@ -47,8 +47,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 ,欧美電影
 http://zzy789.xyz/douyu1.php?id=20415
-#EXTINF:-1 ,粵語電影
+#EXTINF:-1 ,粵語電影1
 http://zzy789.xyz/douyu1.php?id=6566671
+#EXTINF:-1 ,粵語電影2
+http://zzy789.xyz/douyu1.php?id=1226741
 #EXTINF:-1 ,黑莓電影
 http://168.138.9.147:50001/1000000004000019624/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 ,广东珠江
