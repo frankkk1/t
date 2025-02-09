@@ -9,16 +9,12 @@ http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 ,無綫新聞2
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 ,澳门卫视
-http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 ,澳视澳门
 http://cdn.132.us.kg/live/asam/stream.m3u8
 #EXTINF:-1 ,澳门Mac
 http://cdn.132.us.kg/live/as/stream.m3u8
 #EXTINF:-1 ,無綫華麗
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 ,HOY 77
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 ,明珠台
 http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
 #EXTINF:-1 ,TVB星河
@@ -63,12 +59,6 @@ http://www.namewee.xyz/gudou.php?id=364&id=gdzhujiangHD_7500
 http://www.namewee.xyz/gudou.php?id=364&id=1455_4500
 #EXTINF:-1 ,广东影视
 http://www.namewee.xyz/gudou.php?id=364&id=1458_4500
-#EXTINF:-1 ,广州综合
-http://www.namewee.xyz/gudou.php?id=364&id=guangzhou_1500
-#EXTINF:-1 ,广州新闻
-http://www.namewee.xyz/gudou.php?id=364&id=gznews_1500
-#EXTINF:-1 ,广州影视
-http://www.namewee.xyz/gudou.php?id=364&id=gzfilms_1500
 #EXTINF:-1 ,嘉佳卡通
 http://www.namewee.xyz/gudou.php?id=364&id=1459
 #EXTINF:-1 ,广东少儿
@@ -133,3 +123,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 ,CCTV-17農業農村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 ,求索記錄
+http://www.namewee.xyz/gudou.php?id=364&id=QSJLHD_7000
+#EXTINF:-1 ,求索Science
+http://www.namewee.xyz/gudou.php?id=364&id=qiusuokexueHD_7000
+#EXTINF:-1 ,求索動物
+http://www.namewee.xyz/gudou.php?id=364&id=QSDWHD_7000
+#EXTINF:-1 ,求索生活
+http://www.namewee.xyz/gudou.php?id=364&id=1612
