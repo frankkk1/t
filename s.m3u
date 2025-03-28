@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,翡翠台HK
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 ,翡翠台HK 4K
+#EXTINF:-1 ,翡翠台HK FCT
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 ,翡翠台CN
 http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
