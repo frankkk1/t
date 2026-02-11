@@ -10,7 +10,7 @@ http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 ,無綫新聞 1
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 #EXTINF:-1 ,無綫新聞 2
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 ,無綫新聞 3
 http://hls.168.us.kg/u/83/master.m3u8
 #EXTINF:-1 ,無綫新聞 4
@@ -20,7 +20,7 @@ http://cdn.163189.xyz/163189/now
 #EXTINF:-1 ,HOY
 http://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 ,澳視澳門
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
+http://iptv.4666888.xyz/iptv2A.php?id=41
 #EXTINF:-1 ,澳視衛星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 ,澳門綜藝
@@ -89,6 +89,7 @@ http://74.91.26.218:82/live/cctv15hd.m3u8
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 ,CCTV-17農業農村
 http://74.91.26.218:82/live/cctv17hd.m3u8
+
 
 
 
