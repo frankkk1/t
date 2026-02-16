@@ -57,41 +57,46 @@ http://113.81.21.21:8188/rtp/239.77.0.229:5146
 http://113.81.21.21:8188/rtp/239.77.0.251:5146
 #EXTINF:-1 ,广东珠江
 http://113.81.21.21:8188/rtp/239.77.0.114:5146
+#EXTINF:-1 ,广东民生
+http://113.81.21.21:8188/rtp/239.77.0.225:5146
+#EXTINF:-1 ,广东影视
+http://113.81.21.21:8188/rtp/239.77.0.217:5146
 #EXTINF:-1 ,岭南戏曲
 http://113.81.21.21:8188/rtp/239.77.0.122:5146
 #EXTINF:-1 ,CCTV-1綜合
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c1.m3u8
+http://113.81.21.21:8188/rtp/239.77.0.129:5146
 #EXTINF:-1 ,CCTV-2財經
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c2.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.158:5146
 #EXTINF:-1 ,CCTV-3綜藝
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c3.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.7:5146
 #EXTINF:-1 ,CCTV-4中文國際
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c4.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.166:5146
 #EXTINF:-1 ,CCTV-5體育
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c5.m3u8
+http://113.81.21.21:8188/rtp/239.77.0.34:5146
 #EXTINF:-1 ,CCTV-5+體育賽事
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c51.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.31:5146
 #EXTINF:-1 ,CCTV-6電影
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c6.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.9:5146
 #EXTINF:-1 ,CCTV-7國防軍事
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c7.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.159:5146
 #EXTINF:-1 ,CCTV-8電視劇
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c8.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.10:5146
 #EXTINF:-1 ,CCTV-9記錄
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c9.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.160:5146
 #EXTINF:-1 ,CCTV-10科教
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c10.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.113:5146
 #EXTINF:-1 ,CCTV-11戲曲
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c11.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.238:5146
 #EXTINF:-1 ,CCTV-12社會與法
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c12.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.109:5146
 #EXTINF:-1 ,CCTV-13新聞
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c13.m3u8
+http://113.81.21.21:8188/rtp/239.253.43.196:5146
 #EXTINF:-1 ,CCTV-14少兒
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c14.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.161:5146
 #EXTINF:-1 ,CCTV-15音乐
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c15.m3u8
+http://113.81.21.21:8188/rtp/239.77.0.44:5146
 #EXTINF:-1 ,CCTV-16奧林匹克
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c16.m3u8
+http://113.81.21.21:8188/rtp/239.77.0.165:5146
 #EXTINF:-1 ,CCTV-17農業農村
-http://120.220.18.35/tclln.str.vod01.icntvcdn.com/live/5643_c17.m3u8
+http://113.81.21.21:8188/rtp/239.77.1.121:5146
+
