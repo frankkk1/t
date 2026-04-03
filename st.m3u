@@ -37,10 +37,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 ,NOW星影台
 http://74.91.26.218:82/live/nowxy.m3u8
-#EXTINF:-1 ,NOW爆谷台
-http://74.91.26.218:82/live/nowbg.m3u8
-#EXTINF:-1 ,美亞電影台
-http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 ,鳳凰中文
 http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 ,鳳凰資訊
@@ -48,25 +44,21 @@ http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 ,鳳凰香港
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 ,汕头综合
-http://183.2.73.18:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.100.14.149:40000/udp/239.253.43.45:5146
 #EXTINF:-1 ,汕头经济生活 1
-http://115.29.208.41:34567/gd.php?id=st2
+http://113.100.14.149:40000/udp/239.253.43.46:5146
 #EXTINF:-1 ,汕头经济生活 2
-http://59.35.222.149:5146/rtp/239.253.43.46:5146
+http://115.29.208.41:34567/gd.php?id=st2
 #EXTINF:-1 ,揭阳生活 1
-http://115.29.208.41:34567/gd.php?id=jysh
-#EXTINF:-1 ,揭阳生活 2
-http://59.35.222.149:5146/rtp/239.77.0.251:5146
-#EXTINF:-1 ,潮州新闻综合
-http://183.2.73.18:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.100.14.149:40000/udp/239.77.0.251:5146
 #EXTINF:-1 ,广东珠江
-http://121.9.14.195:50085/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+https://ngcable.ccwu.cc/gdzj
 #EXTINF:-1 ,广东民生
-http://115.29.208.41:34567/gd.php?id=1185
+https://ngcable.ccwu.cc/gdgg
 #EXTINF:-1 ,广东影视
-http://183.2.73.18:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+https://ngcable.ccwu.cc/gdys
 #EXTINF:-1 ,岭南戏曲
-http://183.2.73.18:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+https://ngcable.ccwu.cc/lnxq
 #EXTINF:-1 ,CCTV-1綜合
 http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV-2財經
