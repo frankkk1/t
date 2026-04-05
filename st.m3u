@@ -6,7 +6,7 @@ https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 ,翡翠台HK 3
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 ,翡翠台HK 4
-http://74.91.26.218:82/live/jade.m3u8
+http://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 ,無綫新聞 1
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 ,無綫新聞 2
@@ -48,9 +48,11 @@ http://113.100.14.149:40000/udp/239.253.43.45:5146
 #EXTINF:-1 ,汕头经济生活 1
 http://113.100.14.149:40000/udp/239.253.43.46:5146
 #EXTINF:-1 ,汕头经济生活 2
-http://115.29.208.41:34567/gd.php?id=st2
+http://gdjyyd.sohu.blog:1698/hls/6/index.m3u8
 #EXTINF:-1 ,揭阳生活 1
 http://113.100.14.149:40000/udp/239.77.0.251:5146
+#EXTINF:-1 ,揭阳生活 2
+http://120.238.5.44:1698/hls/2/index.m3u8
 #EXTINF:-1 ,广东珠江
 https://ngcable.ccwu.cc/gdzj
 #EXTINF:-1 ,广东民生
