@@ -50,9 +50,9 @@ http://gdczdx.sohu.blog:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 ,汕头经济生活2
 http://gdjyyd.sohu.blog:1698/hls/6/index.m3u8
 #EXTINF:-1 ,汕头经济生活3
-http://58.63.66.57:8888/udp/239.253.43.46:5146
+http://125.94.180.213:8686/udp/239.253.43.46:5146
 #EXTINF:-1 ,揭阳生活
-http://58.63.66.57:8888/udp/239.77.0.251:5146
+http://125.94.180.213:8686/udp/239.77.0.251:5146
 #EXTINF:-1 ,广东珠江
 http://115.190.252.60:23456/gdtv.php?id=44
 #EXTINF:-1 ,广东民生
