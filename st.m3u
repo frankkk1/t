@@ -42,66 +42,64 @@ http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 ,鳳凰香港
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 ,汕头综合a
-http://idc.zymok.cn:10000/udp/239.253.43.45:5146
+http://gs.jianghua.fun:7088/udp/239.253.43.45:5146
 #EXTINF:-1 ,汕头综合b
-http://lbyjlt.vv5678.cn:8880/udp/239.253.43.45:5146
+http://gdjyyd.sohu.blog:1698/hls/5/index.m3u8
+#EXTINF:-1 ,汕头综合C
+http://154.36.187.39:8880/play/413.m3u8
 #EXTINF:-1 ,汕头经济生活a
-http://idc.zymok.cn:10000/udp/239.253.43.46:5146
+http://gs.jianghua.fun:7088/udp/239.253.43.46:5146
 #EXTINF:-1 ,汕头经济生活b
-http://lbyjlt.vv5678.cn:8880/udp/239.253.43.46:5146
+http://gdjyyd.sohu.blog:1698/hls/6/index.m3u8
 #EXTINF:-1 ,汕头经济生活c
-http://pr.19760929.xyz:9688/udp/239.253.43.46:5146
+http://154.36.187.39:8880/play/414.m3u8
 #EXTINF:-1 ,揭阳生活a
-http://idc.zymok.cn:10000/udp/239.77.0.251:5146
+http://gs.jianghua.fun:7088//udp/239.77.0.251:5146
 #EXTINF:-1 ,揭阳生活b
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.251:5146
-#EXTINF:-1 ,揭阳生活c
-http://pr.19760929.xyz:9688/udp/239.77.0.251:5146
+http://154.36.187.39:8880/play/416.m3u8
 #EXTINF:-1 ,广东珠江
-http://idc.zymok.cn:10000/udp/239.77.0.1:5146
+http://154.36.187.39:8880/play/450.m3u8
 #EXTINF:-1 ,广东民生
 http://idc.zymok.cn:10000/udp/239.77.0.225:5146
 #EXTINF:-1 ,广东影视
 http://idc.zymok.cn:10000/udp/239.77.0.217:5146
 #EXTINF:-1 ,广东新闻
-http://idc.zymok.cn:10000/udp/239.77.0.173:5146
-#EXTINF:-1 ,周星驰电影
-http://live.chinacert.cftest5.cn/huya/11342412
+http://154.36.187.39:8880/play/451.m3u8
+#EXTINF:-1 ,电影
+http://154.36.187.39:8880/play/140.m3u8
 #EXTINF:-1 ,西游记
 http://live.chinacert.cftest5.cn/huya/20985836
 #EXTINF:-1 ,CCTV-1綜合
-http://111.56.90.4/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
+http://154.36.187.39:8880/play/86.m3u8
 #EXTINF:-1 ,CCTV-2財經
-http://74.91.26.218:82/live/cctv2hd.m3u8
+http://154.36.187.39:8880/play/87.m3u8
 #EXTINF:-1 ,CCTV-3綜藝
-http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV3
+http://154.36.187.39:8880/play/88.m3u8
 #EXTINF:-1 ,CCTV-4中文國際
-http://74.91.26.218:82/live/cctv4hd.m3u8
+http://154.36.187.39:8880/play/89.m3u8
 #EXTINF:-1 ,CCTV-5體育
-http://74.91.26.218:82/live/cctv5hd.m3u8
+http://154.36.187.39:8880/play/90.m3u8
 #EXTINF:-1 ,CCTV-5+體育賽事
-http://74.91.26.218:82/live/cctv5p.m3u8
+http://154.36.187.39:8880/play/91.m3u8
 #EXTINF:-1 ,CCTV-6電影
-http://74.91.26.218:82/live/cctv6hd.m3u8
+http://154.36.187.39:8880/play/92.m3u8
 #EXTINF:-1 ,CCTV-7國防軍事
-http://74.91.26.218:82/live/cctv7hd.m3u8
+http://154.36.187.39:8880/play/93.m3u8
 #EXTINF:-1 ,CCTV-8電視劇
-http://111.56.90.25/000000001000/5000000004000008888/index.m3u8
+http://154.36.187.39:8880/play/94.m3u8
 #EXTINF:-1 ,CCTV-9記錄
-http://74.91.26.218:82/live/cctv9hd.m3u8
+http://154.36.187.39:8880/play/95.m3u8
 #EXTINF:-1 ,CCTV-10科教
-http://74.91.26.218:82/live/cctv10hd.m3u8
+http://154.36.187.39:8880/play/96.m3u8
 #EXTINF:-1 ,CCTV-11戲曲
-http://74.91.26.218:82/live/cctv11hd.m3u8
+http://154.36.187.39:8880/play/97.m3u8
 #EXTINF:-1 ,CCTV-12社會與法
-http://74.91.26.218:82/live/cctv12hd.m3u8
+http://154.36.187.39:8880/play/98.m3u8
 #EXTINF:-1 ,CCTV-13新聞
-http://74.91.26.218:82/live/cctv13hd.m3u8
+http://154.36.187.39:8880/play/99.m3u8
 #EXTINF:-1 ,CCTV-14少兒
-http://74.91.26.218:82/live/cctv14hd.m3u8
+http://154.36.187.39:8880/play/100.m3u8
 #EXTINF:-1 ,CCTV-15音乐
-http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 ,CCTV-16奧林匹克
-http://74.91.26.218:82/live/cctv16hd.m3u8
+http://154.36.187.39:8880/play/101.m3u8
 #EXTINF:-1 ,CCTV-17農業農村
-http://74.91.26.218:82/live/cctv17hd.m3u8
+http://154.36.187.39:8880/play/102.m3u8
