@@ -45,35 +45,25 @@ http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 ,鳳凰香港
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 ,汕头综合a
-http://gs.jianghua.fun:7088/udp/239.253.43.45:5146
+http://115.190.252.60/gd.php?id=1000
 #EXTINF:-1 ,汕头综合b
-http://gdjyyd.sohu.blog:1698/hls/5/index.m3u8
-#EXTINF:-1 ,汕头综合C
-http://154.36.187.39:8880/play/413.m3u8
+http://gs.jianghua.fun:7088/udp/239.253.43.45:5146
+#EXTINF:-1 ,汕头经济生活a
+http://115.190.252.60/gd.php?id=1001
 #EXTINF:-1 ,汕头经济生活a
 http://gs.jianghua.fun:7088/udp/239.253.43.46:5146
-#EXTINF:-1 ,汕头经济生活b
-http://gdjyyd.sohu.blog:1698/hls/6/index.m3u8
-#EXTINF:-1 ,汕头经济生活c
-http://154.36.187.39:8880/play/414.m3u8
+#EXTINF:-1 ,揭阳生活b
+http://115.190.252.60/gd.php?id=1141
 #EXTINF:-1 ,揭阳生活a
 http://gs.jianghua.fun:7088//udp/239.77.0.251:5146
-#EXTINF:-1 ,揭阳生活b
-http://154.36.187.39:8880/play/416.m3u8
 #EXTINF:-1 ,广东珠江
 http://154.36.187.39:8880/play/450.m3u8
 #EXTINF:-1 ,广东民生
 http://idc.zymok.cn:10000/udp/239.77.0.225:5146
 #EXTINF:-1 ,广东影视
-http://idc.zymok.cn:10000/udp/239.77.0.217:5146
+http://115.190.252.60/gd.php?id=1034
 #EXTINF:-1 ,广东新闻
-http://154.36.187.39:8880/play/451.m3u8
-#EXTINF:-1 ,电影 1
-http://154.36.187.39:8880/play/140.m3u8
-#EXTINF:-1 ,电影 2
-http://154.36.187.39:8880/play/1301.m3u8
-#EXTINF:-1 ,西游记
-http://live.chinacert.cftest5.cn/huya/20985836
+http://115.190.252.60/gd.php?id=1033
 #EXTINF:-1 ,CCTV-1綜合
 http://154.36.187.39:8880/play/86.m3u8
 #EXTINF:-1 ,CCTV-2財經
