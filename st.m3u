@@ -49,13 +49,13 @@ http://gs.jianghua.fun:7088/udp/239.253.43.45:5146
 #EXTINF:-1 ,汕头综合b
 http://183.236.43.98:4013/udp/239.253.43.45:5146
 #EXTINF:-1 ,汕头综合c
-http://47.100.29.86:21345/gdzb.php?name=stzh&mode=redirect
+http://gdjyyd.sohu.blog:1698/hls/5/index.m3u8
 #EXTINF:-1 ,汕头经济生活a
 http://gs.jianghua.fun:7088/udp/239.253.43.46:5146
 #EXTINF:-1 ,汕头经济生活b
 http://183.236.43.98:4013/udp/239.253.43.46:5146
 #EXTINF:-1 ,汕头经济生活c
-http://47.100.29.86:21345/gdzb.php?name=stjjsh&mode=redirect
+http://gdjyyd.sohu.blog:1698/hls/6/index.m3u8
 #EXTINF:-1 ,揭阳生活a
 http://gs.jianghua.fun:7088/udp/239.77.0.251:5146
 #EXTINF:-1 ,揭阳生活b
