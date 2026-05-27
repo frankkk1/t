@@ -73,36 +73,36 @@ http://gs.jianghua.fun:7088/udp/239.77.0.173:5146
 #EXTINF:-1 ,岭南戏曲
 http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
 #EXTINF:-1 ,CCTV-1綜合
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv1.m3u8
 #EXTINF:-1 ,CCTV-2財經
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv2.m3u8
 #EXTINF:-1 ,CCTV-3綜藝
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv3.m3u8
 #EXTINF:-1 ,CCTV-4中文國際
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv4.m3u8
 #EXTINF:-1 ,CCTV-5體育
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv5.m3u8
 #EXTINF:-1 ,CCTV-5+體育賽事
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv5plus.m3u8
 #EXTINF:-1 ,CCTV-6電影
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv6.m3u8
 #EXTINF:-1 ,CCTV-7國防軍事
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv7.m3u8
 #EXTINF:-1 ,CCTV-8電視劇
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv8.m3u8
 #EXTINF:-1 ,CCTV-9記錄
-http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv9.m3u8
 #EXTINF:-1 ,CCTV-10科教
-http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv10.m3u8
 #EXTINF:-1 ,CCTV-11戲曲
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv11.m3u8
 #EXTINF:-1 ,CCTV-12社會與法
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv12.m3u8
 #EXTINF:-1 ,CCTV-13新聞
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv13.m3u8
 #EXTINF:-1 ,CCTV-14少兒
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv14.m3u8
 #EXTINF:-1 ,CCTV-15音乐
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv15.m3u8
 #EXTINF:-1 ,CCTV-17農業農村
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+http://129.211.14.102:25000/cctv17.m3u8
