@@ -1,119 +1,947 @@
-#EXTM3U
-#EXTINF:-1 ,翡翠台HK
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 ,翡翠台HK 4k
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 ,無綫新聞
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 ,無綫新聞 备用
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 ,無綫華麗
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 ,明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 ,澳门卫视
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 ,TVB星河
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 ,千禧經典台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 ,ViuTV
-http://m.osvs.asia:8000/bysid/99
-#EXTINF:-1 ,ViuTV 6
-http://m.osvs.asia:8000/bysid/96
-#EXTINF:-1 ,TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 ,澳视澳门
-http://cdn.132.us.kg/live/asam/stream.m3u8
-#EXTINF:-1 ,澳门Mac
-http://cdn.132.us.kg/live/as/stream.m3u8
-#EXTINF:-1 ,HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 ,Now爆谷
-http://205.185.123.236:8899/1/baogutai/baogu.m3u8
-#EXTINF:-1 ,美亞電影台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 ,AMC电影
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 ,纬来精彩
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 ,NHK WORLD
-http://61.221.215.25:8800/hls/51/index.m3u8
-#EXTINF:-1 ,鳳凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 ,鳳凰資訊
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 ,鳳凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-#EXTINF:-1 ,欧美電影
-http://zzy789.xyz/douyu1.php?id=20415
-#EXTINF:-1 ,粵語電影1
-http://zzy789.xyz/douyu1.php?id=6566671
-#EXTINF:-1 ,粵語電影2
-http://zzy789.xyz/douyu1.php?id=1226741
-#EXTINF:-1 ,黑莓電影
-http://168.138.9.147:50001/1000000004000019624/ystenlive/index.m3u8
-#EXTINF:-1 ,广东珠江
-http://168.138.9.147:50001/1000000004000011655/ystenlive/index.m3u8
-#EXTINF:-1 ,广东体育
-https://cdn2.163189.xyz/live/gdty/stream.m3u8
-#EXTINF:-1 ,上海五星体育
-http://168.138.9.147:50001/5000000010000017540/bestzb/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://168.138.9.147:50001/5000000010000030417/bestzb/index.m3u8
-#EXTINF:-1 ,大湾区卫视
-http://168.138.9.147:50001/1000000002000011619/ystenlive/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://168.138.9.147:50001/5000000010000024026/bestzb/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://168.138.9.147:50001/5000000010000017320/bestzb/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://168.138.9.147:50001/5000000006000040014/bestzb/index.m3u8
-#EXTINF:-1 ,福建东南卫视
-http://168.138.9.147:50001/5000000001000005829/bestzb/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://168.138.9.147:50001/5000000010000030452/bestzb/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://168.138.9.147:50001/5000000010000022140/bestzb/index.m3u8
-#EXTINF:-1 ,上海东方卫视
-http://168.138.9.147:50001/5000000010000032246/bestzb/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://168.138.9.147:50001/5000000010000018509/bestzb/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://168.138.9.147:50001/5000000010000011502/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-1综合
-http://168.138.9.147:50001/5000000010000030810/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-2财经
-http://168.138.9.147:50001/1000000001000012442/ystenlive/index.m3u8
-#EXTINF:-1 ,CCTV-3综艺
-http://168.138.9.147:50001/5000000002000020548/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-4中文国际
-http://168.138.9.147:50001/1000000002000031664/ystenlive/index.m3u8
-#EXTINF:-1 ,CCTV-5体育
-http://168.138.9.147:50001/5000000010000016619/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-5+体育赛事
-http://168.138.9.147:50001/1000000001000020505/ystenlive/index.m3u8
-#EXTINF:-1 ,CCTV-6电影
-http://168.138.9.147:50001/5000000010000018433/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-7国防军事
-http://168.138.9.147:50001/1000000001000017218/ystenlive/index.m3u8
-#EXTINF:-1 ,CCTV-8电视剧
-http://168.138.9.147:50001/5000000010000018377/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-9纪录
-http://168.138.9.147:50001/5000000010000018384/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-10科教
-http://168.138.9.147:50001/5000000010000016738/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-11戏曲
-http://168.138.9.147:50001/5000000006000040011/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-12社会与法
-http://168.138.9.147:50001/1000000001000001640/ystenlive/index.m3u8
-#EXTINF:-1 ,CCTV-13新闻
-http://168.138.9.147:50001/5000000005000001827/bestzb/index.m3u8
-#EXTINF:-1 ,CCTV-14少儿
-http://168.138.9.147:50001/1000000001000021349/ystenlive/index.m3u8
-#EXTINF:-1 ,CCTV-15音乐
-http://168.138.9.147:50001/1000000002000008163/ystenlive/index.m3u8
-#EXTINF:-1 ,CCTV-16奥林匹克
-http://168.138.9.147:50001/1000000006000233001/ystenlive/index.m3u8
-#EXTINF:-1 ,CCTV-17农业农村
-http://168.138.9.147:50001/1000000005000056836/ystenlive/index.m3u8
+
+中国(1),#genre#
+CCTV1,http://318.tugu.xyz//yyh.php?id=cctv1hd
+CCTV1,http://318.tugu.xyz//yyh.php?id=cctv1hd
+CCTV2,http://318.tugu.xyz//yyh.php?id=cctv2hd
+CCTV3,http://318.tugu.xyz//yyh.php?id=cctv3hd
+CCTV4,http://318.tugu.xyz//yyh.php?id=cctv4hd
+CCTV4,http://318.tugu.xyz//yyh.php?id=cctv4hd
+CCTV5,http://318.tugu.xyz//yyh.php?id=cctv5hd
+CCTV5,http://318.tugu.xyz//yyh.php?id=cctv5
+CCTV5+,http://318.tugu.xyz//yyh.php?id=cctv5phd
+CCTV5+,http://318.tugu.xyz//yyh.php?id=cctv5p
+CCTV6,http://318.tugu.xyz//yyh.php?id=cctv6hd
+CCTV6,http://318.tugu.xyz//yyh.php?id=cctv6hd
+CCTV7,http://318.tugu.xyz//yyh.php?id=cctv7hd
+CCTV8,http://318.tugu.xyz//yyh.php?id=cctv8hd
+CCTV9,http://318.tugu.xyz//yyh.php?id=cctv9hd
+CCTV10,http://318.tugu.xyz//yyh.php?id=cctv10hd
+CCTV11,http://318.tugu.xyz//yyh.php?id=cctv11hd
+CCTV11,http://318.tugu.xyz//yyh.php?id=cctv11
+CCTV12,http://318.tugu.xyz//yyh.php?id=cctv12hd
+CCTV13,http://318.tugu.xyz//yyh.php?id=cctv13hd
+CCTV14,http://318.tugu.xyz//yyh.php?id=cctv14hd
+CCTV15,http://318.tugu.xyz//yyh.php?id=cctv15hd
+CCTV16,http://318.tugu.xyz//yyh.php?id=cctv16hd
+CCTV17,http://318.tugu.xyz//yyh.php?id=cctv17hd
+CETV1,http://318.tugu.xyz//yyh.php?id=cetv1
+CHC高清电影,http://318.tugu.xyz//yyh.php?id=chchdmovie
+CHC动作电影,http://318.tugu.xyz//yyh.php?id=chcaction
+CHC家庭电影,http://318.tugu.xyz//yyh.php?id=chcfamily
+五星体育,http://318.tugu.xyz//yyh.php?id=fivestarsports
+湖南卫视,http://318.tugu.xyz//yyh.php?id=hunwshd
+湖南卫视,http://318.tugu.xyz//yyh.php?id=hunws
+浙江卫视,http://318.tugu.xyz//yyh.php?id=zjwshd
+浙江卫视,http://318.tugu.xyz//yyh.php?id=zjws
+江苏卫视,http://318.tugu.xyz//yyh.php?id=jswshd
+江苏卫视,http://318.tugu.xyz//yyh.php?id=jsws
+深圳卫视,http://318.tugu.xyz//yyh.php?id=szwshd
+深圳卫视,http://318.tugu.xyz//yyh.php?id=szws
+湖北卫视,http://318.tugu.xyz//yyh.php?id=hubwshd
+湖北卫视,http://318.tugu.xyz//yyh.php?id=hubws
+广西卫视,http://318.tugu.xyz//yyh.php?id=gxwshd
+广西卫视,http://318.tugu.xyz//yyh.php?id=gxws
+东南卫视,http://318.tugu.xyz//yyh.php?id=dnws
+江西卫视,http://318.tugu.xyz//yyh.php?id=jxwshd
+江西卫视,http://318.tugu.xyz//yyh.php?id=jxws
+北京卫视,http://318.tugu.xyz//yyh.php?id=bjwshd
+北京卫视,http://318.tugu.xyz//yyh.php?id=bjws
+东方卫视,http://318.tugu.xyz//yyh.php?id=dfwshd
+东方卫视,http://318.tugu.xyz//yyh.php?id=dfws
+辽宁卫视,http://318.tugu.xyz//yyh.php?id=lnwshd
+辽宁卫视,http://318.tugu.xyz//yyh.php?id=lnws
+重庆卫视,http://318.tugu.xyz//yyh.php?id=cqwshd
+重庆卫视,http://318.tugu.xyz//yyh.php?id=cqws
+天津卫视,http://318.tugu.xyz//yyh.php?id=tjwshd
+天津卫视,http://318.tugu.xyz//yyh.php?id=tjws
+安徽卫视,http://318.tugu.xyz//yyh.php?id=ahwshd
+安徽卫视,http://318.tugu.xyz//yyh.php?id=ahws
+贵州卫视,http://318.tugu.xyz//yyh.php?id=gzws
+四川卫视,http://318.tugu.xyz//yyh.php?id=scwshd
+四川卫视,http://318.tugu.xyz//yyh.php?id=scws
+山东卫视,http://318.tugu.xyz//yyh.php?id=sdwshd
+山东卫视,http://318.tugu.xyz//yyh.php?id=sdws
+吉林卫视,http://318.tugu.xyz//yyh.php?id=jlws
+黑龙江卫视,http://318.tugu.xyz//yyh.php?id=hljwshd
+黑龙江卫视,http://318.tugu.xyz//yyh.php?id=hljws
+河北卫视,http://318.tugu.xyz//yyh.php?id=hbwshd
+河北卫视,http://318.tugu.xyz//yyh.php?id=hbws
+河南卫视,http://318.tugu.xyz//yyh.php?id=hnws
+内蒙古卫视,http://318.tugu.xyz//yyh.php?id=nmgws
+宁夏卫视,http://318.tugu.xyz//yyh.php?id=nxws
+甘肃卫视,http://318.tugu.xyz//yyh.php?id=gsws
+海南卫视,http://318.tugu.xyz//yyh.php?id=hinwshd
+海南卫视,http://318.tugu.xyz//yyh.php?id=hinws
+新疆卫视,http://318.tugu.xyz//yyh.php?id=xjws
+西藏卫视,http://318.tugu.xyz//yyh.php?id=xzwshd
+广东卫视,http://318.tugu.xyz//yyh.php?id=gdwshd
+广东卫视,http://318.tugu.xyz//yyh.php?id=gdws
+大湾区卫视,http://318.tugu.xyz//yyh.php?id=dwqws
+香港(1),#genre#
+翡翠台,http://318.tugu.xyz//yyh.php?id=MytvTvbJade
+翡翠台,http://318.tugu.xyz//yyh.php?id=TVBjadeHDHK
+翡翠台,http://318.tugu.xyz//yyh.php?id=tvbjade
+翡翠台,http://318.tugu.xyz//yyh.php?id=TVBjadeHKDE
+翡翠台,http://318.tugu.xyz//yyh.php?id=TVBjadeHK
+翡翠台,http://318.tugu.xyz//yyh.php?id=jadehk
+翡翠台,http://318.tugu.xyz//yyh.php?id=JADE
+翡翠台,http://318.tugu.xyz//yyh.php?id=2
+翡翠台(美加·东岸时区),http://318.tugu.xyz//yyh.php?id=TVBJEAST
+翡翠台(美加·西岸时区),http://318.tugu.xyz//yyh.php?id=TVBJWEST
+翡翠台(欧·新时区),http://318.tugu.xyz//yyh.php?id=TVBJAUS
+翡翠台(英国时区),http://318.tugu.xyz//yyh.php?id=TVBJUK
+TVB Plus,http://318.tugu.xyz//yyh.php?id=MytvTvbPlus
+TVB Plus,http://318.tugu.xyz//yyh.php?id=TVBPlusHDHK
+TVB Plus,http://318.tugu.xyz//yyh.php?id=TVB%2520PlusDE
+TVB Plus,http://318.tugu.xyz//yyh.php?id=TVB%2520Plus
+TVB Plus,http://318.tugu.xyz//yyh.php?id=j2hk
+TVB Plus,http://318.tugu.xyz//yyh.php?id=J2
+TVB Plus,http://318.tugu.xyz//yyh.php?id=5
+无线新闻,http://318.tugu.xyz//yyh.php?id=MytvTvbNews
+无线新闻,http://318.tugu.xyz//yyh.php?id=TVBinewsHDHK
+无线新闻,http://318.tugu.xyz//yyh.php?id=TVBinewsDE
+无线新闻,http://318.tugu.xyz//yyh.php?id=tvbnewshk
+无线新闻,http://318.tugu.xyz//yyh.php?id=TVBNEWS
+无线新闻,http://318.tugu.xyz//yyh.php?id=TVBNEWSUS
+无线新闻,http://318.tugu.xyz//yyh.php?id=tvbnews
+无线新闻,http://318.tugu.xyz//yyh.php?id=13
+明珠台,http://318.tugu.xyz//yyh.php?id=MytvTvbPearl
+明珠台,http://318.tugu.xyz//yyh.php?id=TVBPearlHK
+明珠台,http://318.tugu.xyz//yyh.php?id=tvbpearl
+明珠台,http://318.tugu.xyz//yyh.php?id=pearlhk
+明珠台,http://318.tugu.xyz//yyh.php?id=TVBP
+明珠台,http://318.tugu.xyz//yyh.php?id=3
+TVB生活台,http://318.tugu.xyz//yyh.php?id=tvblifechannel
+TVB生活台,http://318.tugu.xyz//yyh.php?id=TVBLifestyleTH
+TVB星河频道,http://318.tugu.xyz//yyh.php?id=TVBXHHK
+TVB星河频道,http://318.tugu.xyz//yyh.php?id=TVBXingHeHK
+TVB星河频道,http://318.tugu.xyz//yyh.php?id=4
+TVB星河国语,http://318.tugu.xyz//yyh.php?id=TVBXHCN
+TVB星河国语,http://318.tugu.xyz//yyh.php?id=TVBXingHeCN
+凤凰资讯台,http://318.tugu.xyz//yyh.php?id=MytvPhoenixInfo
+凤凰资讯台,http://318.tugu.xyz//yyh.php?id=183
+凤凰资讯台,http://318.tugu.xyz//yyh.php?id=PIN
+凤凰资讯台,http://318.tugu.xyz//yyh.php?id=PhoenixInfoMY%23phoenixinfo
+凤凰中文,http://318.tugu.xyz//yyh.php?id=MytvPhoenixChinese
+凤凰中文,http://318.tugu.xyz//yyh.php?id=PhoenixChineseMY
+凤凰中文,http://318.tugu.xyz//yyh.php?id=PCC
+凤凰中文,http://318.tugu.xyz//yyh.php?id=182
+凤凰香港,http://318.tugu.xyz//yyh.php?id=MytvPhoenixHK
+凤凰香港,http://318.tugu.xyz//yyh.php?id=PHK
+凤凰香港,http://318.tugu.xyz//yyh.php?id=phoenixhk
+凤凰香港,http://318.tugu.xyz//yyh.php?id=184
+TVB1,http://318.tugu.xyz//yyh.php?id=TVB1US
+TVB1,http://318.tugu.xyz//yyh.php?id=176
+TVB Pearl Drama 明珠剧集台,http://318.tugu.xyz//yyh.php?id=TVBPearlDramaUS
+TVBJ1,http://318.tugu.xyz//yyh.php?id=TVBJ1West
+TVBJ1,http://318.tugu.xyz//yyh.php?id=TVBJ1US
+TVBJ1,http://318.tugu.xyz//yyh.php?id=195
+TVB J2,http://318.tugu.xyz//yyh.php?id=TVB%2520PlusUS
+TVB Drama 翡翠剧集台,http://318.tugu.xyz//yyh.php?id=TVBDramaWest
+TVB Drama 翡翠剧集台,http://318.tugu.xyz//yyh.php?id=TVBDramaUS
+TVB Drama 翡翠剧集台,http://318.tugu.xyz//yyh.php?id=177
+TVB E 翡翠娛樂台,http://318.tugu.xyz//yyh.php?id=TVBEWest
+TVB E 翡翠娛樂台,http://318.tugu.xyz//yyh.php?id=TVBEUS
+TVB E 翡翠娛樂台,http://318.tugu.xyz//yyh.php?id=175
+POP C,http://318.tugu.xyz//yyh.php?id=MytvPopC
+POP C,http://318.tugu.xyz//yyh.php?id=POPCHK
+POP C,http://318.tugu.xyz//yyh.php?id=AnimaxHKBG
+POP C,http://318.tugu.xyz//yyh.php?id=179
+Now爆谷台,http://318.tugu.xyz//yyh.php?id=NowBaoguMoviesHKHD%23NowBaoguMoviesCNHD
+Now爆谷台,http://318.tugu.xyz//yyh.php?id=NowBaoguMoviesHK%23NowBaoguMoviesCN%23NowBGTHK%23NowBGTHKCN
+Now爆谷台,http://318.tugu.xyz//yyh.php?id=187
+Now星影台,http://318.tugu.xyz//yyh.php?id=NowBaoguSuperstarsHKHD
+Now星影台,http://318.tugu.xyz//yyh.php?id=NowBaoguSuperstarsCNHD
+Now星影台,http://318.tugu.xyz//yyh.php?id=NowBaoguSuperstarsHK%23NowBaoguSuperstarsCN%23NowXYTHK%23NowXYTHKCN
+Now星影台,http://318.tugu.xyz//yyh.php?id=186
+Now华剧台,http://318.tugu.xyz//yyh.php?id=NowChineseDramaChannelHKBG
+Now华剧台,http://318.tugu.xyz//yyh.php?id=NowChineseDramaChannelHK%23NowChineseOperaHK%23NowChineseDramaChannelHKBG
+Now剧集台,http://318.tugu.xyz//yyh.php?id=ViuchannelHKBG
+Now剧集台,http://318.tugu.xyz//yyh.php?id=ViuchannelHK%23NowDramaSeriesHK%23ViuchannelHKBG
+Astro AEC,http://318.tugu.xyz//yyh.php?id=AstroAECHD
+Astro QJ,http://318.tugu.xyz//yyh.php?id=AstroQuanJiaHD
+Astro AOD,http://318.tugu.xyz//yyh.php?id=AstroAOD311HDHK%23AstroAOD311HDCN
+Astro 欢喜台,http://318.tugu.xyz//yyh.php?id=AstroHuaHeeDaiHD
+娱家台,http://318.tugu.xyz//yyh.php?id=HubVVDrama
+都会台,http://318.tugu.xyz//yyh.php?id=HubECity
+Now新闻台,http://318.tugu.xyz//yyh.php?id=Nowtvnews
+Now新闻台,http://318.tugu.xyz//yyh.php?id=Now332HK%23NowNewsHK
+Now新闻台,http://318.tugu.xyz//yyh.php?id=21
+Now直播台,http://318.tugu.xyz//yyh.php?id=Nowtvlive
+Now直播台,http://318.tugu.xyz//yyh.php?id=Now331HK%23NowLiveHK
+Now直播台,http://318.tugu.xyz//yyh.php?id=27
+Now财经台,http://318.tugu.xyz//yyh.php?id=Nowtvfinance
+Now财经台,http://318.tugu.xyz//yyh.php?id=Now333HK%23NowFinanceHK
+Now财经台,http://318.tugu.xyz//yyh.php?id=23
+NowJelli紫金国际,http://318.tugu.xyz//yyh.php?id=NowJelliHK
+NowJelli紫金国际,http://318.tugu.xyz//yyh.php?id=nowjelli
+Now Sports 630,http://318.tugu.xyz//yyh.php?id=Now630HK
+Now Sports 630,http://318.tugu.xyz//yyh.php?id=NowSports630
+Now Sports 641,http://318.tugu.xyz//yyh.php?id=NowSportsCH641HK
+Now Sports Plus,http://318.tugu.xyz//yyh.php?id=NowSportsPlusHK
+Now Sports Plus,http://318.tugu.xyz//yyh.php?id=NowSports680
+Now Sports 1,http://318.tugu.xyz//yyh.php?id=NowSports1HK
+Now Sports 2,http://318.tugu.xyz//yyh.php?id=NowSports2HK
+Now Sports 3,http://318.tugu.xyz//yyh.php?id=NowSports3HK
+Now Sports 4,http://318.tugu.xyz//yyh.php?id=NowSports4HK
+Now Sports 5,http://318.tugu.xyz//yyh.php?id=NowSports5HK
+Now Sports 6,http://318.tugu.xyz//yyh.php?id=NowSports6HK
+Now Sports 7,http://318.tugu.xyz//yyh.php?id=NowSports7HK
+Now Sports 英超1台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague1HK
+Now Sports 英超2台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague2HK
+Now Sports 英超3台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague3HK
+Now Sports 英超4台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague4HK
+Now Sports 英超5台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague5HK
+Now Sports 英超6台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague6HK
+bEINSports1,http://318.tugu.xyz//yyh.php?id=bEINSports1HK
+bEINSports2,http://318.tugu.xyz//yyh.php?id=bEINSports2HK
+bEINSports3,http://318.tugu.xyz//yyh.php?id=bEINSports3HK
+NBA TV,http://318.tugu.xyz//yyh.php?id=NBATVHK
+TVB功夫台,http://318.tugu.xyz//yyh.php?id=AsiaActionCN
+TVB功夫台,http://318.tugu.xyz//yyh.php?id=AsiaActionHK
+TVB功夫台,http://318.tugu.xyz//yyh.php?id=12
+澳门莲花,http://318.tugu.xyz//yyh.php?id=Macaulotustv%2317
+WOW TV,http://318.tugu.xyz//yyh.php?id=WOWTV
+KTSF-26美国旧金山,http://318.tugu.xyz//yyh.php?id=KTSF26
+KR ALL TV,http://318.tugu.xyz//yyh.php?id=KRALLTV
+龙祥时代,http://318.tugu.xyz//yyh.php?id=LSTIME
+中国电影频道,http://318.tugu.xyz//yyh.php?id=MytvChinaMovie
+中国电影频道,http://318.tugu.xyz//yyh.php?id=CMCMoviesHK
+Thrill,http://318.tugu.xyz//yyh.php?id=ThrillHK%23CTHR
+Thrill,http://318.tugu.xyz//yyh.php?id=121
+Thrill,http://318.tugu.xyz//yyh.php?id=MytvThrill
+天映频道,http://318.tugu.xyz//yyh.php?id=CelestialMoviesHK
+天映频道,http://318.tugu.xyz//yyh.php?id=110
+天映频道国,http://318.tugu.xyz//yyh.php?id=CelestialMoviesCN
+天映经典,http://318.tugu.xyz//yyh.php?id=CelestialClassicMYCN
+天映经典,http://318.tugu.xyz//yyh.php?id=CelestialClassicMYML
+天映经典台,http://318.tugu.xyz//yyh.php?id=MytvCCM
+天映经典台,http://318.tugu.xyz//yyh.php?id=CCMoviesHK%23CCMoviesCN%23CCCM
+天映经典台,http://318.tugu.xyz//yyh.php?id=111
+HOY76,http://318.tugu.xyz//yyh.php?id=HOYChannel76%23hoych76
+HOY76,http://318.tugu.xyz//yyh.php?id=16
+HOY77,http://318.tugu.xyz//yyh.php?id=HOYChannel77%23hoych77
+HOY77,http://318.tugu.xyz//yyh.php?id=HKC001GW%23hoytv
+HOY77,http://318.tugu.xyz//yyh.php?id=1
+HOY78,http://318.tugu.xyz//yyh.php?id=HOYChannel78%23hoych78
+HOY78,http://318.tugu.xyz//yyh.php?id=HKC002GW%23hoyinfo
+HOY78,http://318.tugu.xyz//yyh.php?id=15
+TVBS衛星亞洲台,http://318.tugu.xyz//yyh.php?id=TVBSAsiaHK
+ViuTV,http://318.tugu.xyz//yyh.php?id=ViuTvChannel
+ViuTV,http://318.tugu.xyz//yyh.php?id=Viutv%2319
+ViuTV6,http://318.tugu.xyz//yyh.php?id=ViuTv6Channel
+ViuTV6,http://318.tugu.xyz//yyh.php?id=Viusix%2320
+RTHK31,http://318.tugu.xyz//yyh.php?id=rthk31hd
+RTHK31,http://318.tugu.xyz//yyh.php?id=RTHK31_DE%23RTHK31HD%2329
+RTHK32,http://318.tugu.xyz//yyh.php?id=rthk32hd
+RTHK32,http://318.tugu.xyz//yyh.php?id=RTHK32_DE%23RTHK32HD%2330
+新时代1,http://318.tugu.xyz//yyh.php?id=FairchildTV
+新时代1备,http://318.tugu.xyz//yyh.php?id=FairchildTV2
+新时代2,http://318.tugu.xyz//yyh.php?id=Fairchild2TV
+城市电视,http://318.tugu.xyz//yyh.php?id=Talentvision
+城市电视,http://318.tugu.xyz//yyh.php?id=TalentvisionTV
+中旺电视,http://318.tugu.xyz//yyh.php?id=ZWTV
+FashionBox,http://318.tugu.xyz//yyh.php?id=MytvFashionBox
+FashionBox,http://318.tugu.xyz//yyh.php?id=FASHIONONEHK
+tvN,http://318.tugu.xyz//yyh.php?id=MytvTvn
+tvN,http://318.tugu.xyz//yyh.php?id=tvNHK
+Kix,http://318.tugu.xyz//yyh.php?id=MytvKIX
+Kix,http://318.tugu.xyz//yyh.php?id=KIXHK%23KIXBG%23CKIX
+Kix,http://318.tugu.xyz//yyh.php?id=118
+ROCK超级娱乐,http://318.tugu.xyz//yyh.php?id=MytvRockAction
+ROCK超级娱乐,http://318.tugu.xyz//yyh.php?id=ROCKAction%23CRTX
+ROCK综艺娱乐,http://318.tugu.xyz//yyh.php?id=MytvRockEntertainment
+ROCK综艺娱乐,http://318.tugu.xyz//yyh.php?id=ROCKYZYL%23CRTE
+黃金華劇台,http://318.tugu.xyz//yyh.php?id=MytvGoldenChineseDrama
+黃金華劇台,http://318.tugu.xyz//yyh.php?id=28
+MyTV黄金翡翠台,http://318.tugu.xyz//yyh.php?id=TVBGoldenJadeHK
+MyTV黄金翡翠台,http://318.tugu.xyz//yyh.php?id=MytvGoldenJade
+HKC18台,http://318.tugu.xyz//yyh.php?id=HKC18
+HKC18台,http://318.tugu.xyz//yyh.php?id=HKC18%23HKC603HD%2318
+千禧经典,http://318.tugu.xyz//yyh.php?id=TVBClassicMY
+千禧经典,http://318.tugu.xyz//yyh.php?id=198
+MyTV千禧经典台,http://318.tugu.xyz//yyh.php?id=MytvClassic
+MyTV千禧经典台,http://318.tugu.xyz//yyh.php?id=TVBClassicHK%2311
+亚洲剧台,http://318.tugu.xyz//yyh.php?id=MytvAsianDrama
+亚洲剧台,http://318.tugu.xyz//yyh.php?id=TVBAsianDramaHK%23TVBAsianDramaHKBG%237%23CTVS
+华语剧台,http://318.tugu.xyz//yyh.php?id=MytvChineseDrama
+华语剧台,http://318.tugu.xyz//yyh.php?id=TVBChineseDramaHK%23TVBChineseDramaHKCN%238%23CDR3
+TVB娱乐新闻,http://318.tugu.xyz//yyh.php?id=MytvTvbEntertainment
+TVB娱乐新闻,http://318.tugu.xyz//yyh.php?id=TVBEntertainmentNewsHK%23CTVE%2310
+亚洲综合娱乐台,http://318.tugu.xyz//yyh.php?id=MYTVASIAVARIETY
+亚洲综合娱乐台,http://318.tugu.xyz//yyh.php?id=24
+TVBSuperFree,http://318.tugu.xyz//yyh.php?id=TVBSuperfreeHK%23TVBSuperfreeHKBG%23CWIN%23SUPERKidsChannelHKBG%23SUPERKidsChannelHK
+TVBSuperFree,http://318.tugu.xyz//yyh.php?id=MytvSuperFree
+Hands UP,http://318.tugu.xyz//yyh.php?id=MytvKidsChannel
+Hands UP,http://318.tugu.xyz//yyh.php?id=25%23KID
+戏曲台,http://318.tugu.xyz//yyh.php?id=MytvOperaChannel
+戏曲台,http://318.tugu.xyz//yyh.php?id=200
+Animax,http://318.tugu.xyz//yyh.php?id=MytvAnimaxC
+Animax,http://318.tugu.xyz//yyh.php?id=AnimaxHK
+ZooMoo,http://318.tugu.xyz//yyh.php?id=MytvZooMoo
+Nickelodeon,http://318.tugu.xyz//yyh.php?id=MytvNickeledeon
+NickJr儿童频道,http://318.tugu.xyz//yyh.php?id=MytvNickJr
+DreamWorks,http://318.tugu.xyz//yyh.php?id=DreamWorksHK
+年代Much,http://318.tugu.xyz//yyh.php?id=eramuch
+粤语片台,http://318.tugu.xyz//yyh.php?id=MytvCantoneseChannel
+粤语片台,http://318.tugu.xyz//yyh.php?id=6
+美亚电影国,http://318.tugu.xyz//yyh.php?id=MytvMeiyaMovieEN
+美亚电影国,http://318.tugu.xyz//yyh.php?id=CMAMHKBG
+美亚电影国,http://318.tugu.xyz//yyh.php?id=CMAM
+美亚电影,http://318.tugu.xyz//yyh.php?id=MytvMeiyaMovieCN
+美亚电影,http://318.tugu.xyz//yyh.php?id=CMAMHK
+美亚电影,http://318.tugu.xyz//yyh.php?id=9
+HBO,http://318.tugu.xyz//yyh.php?id=HBOHK
+HBOHD,http://318.tugu.xyz//yyh.php?id=96
+HBO Signature,http://318.tugu.xyz//yyh.php?id=97
+HBO HiTS,http://318.tugu.xyz//yyh.php?id=98
+HBO family,http://318.tugu.xyz//yyh.php?id=99
+AXN,http://318.tugu.xyz//yyh.php?id=MytvAXN
+axn,http://318.tugu.xyz//yyh.php?id=AXNHK
+GlobalTrekker,http://318.tugu.xyz//yyh.php?id=GlobalTrekker
+Love Nature,http://318.tugu.xyz//yyh.php?id=LoveNatureHD
+mySUPER直播足球2台,http://318.tugu.xyz//yyh.php?id=MytvSports2
+mySUPER直播足球3台,http://318.tugu.xyz//yyh.php?id=MytvSports3
+mySUPER直播足球4台,http://318.tugu.xyz//yyh.php?id=MytvSports4
+mySUPER直播足球5台,http://318.tugu.xyz//yyh.php?id=MytvSports5
+mySUPER直播足球6台,http://318.tugu.xyz//yyh.php?id=MytvSports6
+台湾(1),#genre#
+中视,http://318.tugu.xyz//yyh.php?id=ctvtwhd
+中视,http://318.tugu.xyz//yyh.php?id=ctv
+中视新闻,http://318.tugu.xyz//yyh.php?id=ctvnews%23ctvnewslm
+中视新闻,http://318.tugu.xyz//yyh.php?id=ctvnewsy
+中视经典,http://318.tugu.xyz//yyh.php?id=ctvclassic
+中视菁采,http://318.tugu.xyz//yyh.php?id=ctvbravo
+公视,http://318.tugu.xyz//yyh.php?id=ptshd
+公视,http://318.tugu.xyz//yyh.php?id=ptshdlm
+公视,http://318.tugu.xyz//yyh.php?id=PTSHD
+公视,http://318.tugu.xyz//yyh.php?id=39
+公视3,http://318.tugu.xyz//yyh.php?id=PTS3
+公视戏剧,http://318.tugu.xyz//yyh.php?id=ptsdrama
+公视台语台,http://318.tugu.xyz//yyh.php?id=PTS2
+公视新闻,http://318.tugu.xyz//yyh.php?id=PTSNews
+民视,http://318.tugu.xyz//yyh.php?id=ftvhd
+民视,http://318.tugu.xyz//yyh.php?id=ftvhdlm
+民视,http://318.tugu.xyz//yyh.php?id=36
+民视第一台,http://318.tugu.xyz//yyh.php?id=fmtv
+民视第一台,http://318.tugu.xyz//yyh.php?id=45
+民视台湾台,http://318.tugu.xyz//yyh.php?id=fttv
+民视台湾台,http://318.tugu.xyz//yyh.php?id=37
+民视新闻台,http://318.tugu.xyz//yyh.php?id=ftvnews
+民视新闻台,http://318.tugu.xyz//yyh.php?id=ftvnewsy
+民视新闻台,http://318.tugu.xyz//yyh.php?id=ftvnewslm
+民视新闻台,http://318.tugu.xyz//yyh.php?id=144
+民视影剧台,http://318.tugu.xyz//yyh.php?id=ftvmoviedrama
+民视旅游台,http://318.tugu.xyz//yyh.php?id=ftvtravel
+民视综艺台,http://318.tugu.xyz//yyh.php?id=ftvvariety
+台视,http://318.tugu.xyz//yyh.php?id=ttv
+台视,http://318.tugu.xyz//yyh.php?id=ttvhd_de
+台视,http://318.tugu.xyz//yyh.php?id=ttvhdlm
+台视,http://318.tugu.xyz//yyh.php?id=TTVHD
+台视新闻,http://318.tugu.xyz//yyh.php?id=ttvnewshdy
+台视新闻,http://318.tugu.xyz//yyh.php?id=ttvnewslm
+台视新闻,http://318.tugu.xyz//yyh.php?id=TTVNews
+台视新闻,http://318.tugu.xyz//yyh.php?id=148
+台视综合,http://318.tugu.xyz//yyh.php?id=ttvvariety
+台视综合,http://318.tugu.xyz//yyh.php?id=TTVZH
+台视财经,http://318.tugu.xyz//yyh.php?id=ttvfinance
+台视财经,http://318.tugu.xyz//yyh.php?id=TTVCJ
+台湾戏剧,http://318.tugu.xyz//yyh.php?id=taiwandramahd
+台湾戏剧,http://318.tugu.xyz//yyh.php?id=TaiwanDrama
+华视,http://318.tugu.xyz//yyh.php?id=ctshd
+华视,http://318.tugu.xyz//yyh.php?id=ctshdlm
+华视,http://318.tugu.xyz//yyh.php?id=38
+华视新闻资讯,http://318.tugu.xyz//yyh.php?id=ctsnewsinfo
+华视新闻资讯,http://318.tugu.xyz//yyh.php?id=ctsnews
+霹雳台湾台,http://318.tugu.xyz//yyh.php?id=pilitaiwan
+霹雳台湾台,http://318.tugu.xyz//yyh.php?id=Pilitai
+壹新闻,http://318.tugu.xyz//yyh.php?id=nextnews
+壹新闻,http://318.tugu.xyz//yyh.php?id=nexttvnews
+壹新闻,http://318.tugu.xyz//yyh.php?id=149
+壹新闻,http://318.tugu.xyz//yyh.php?id=NEXTNews
+JET综合台,http://318.tugu.xyz//yyh.php?id=jetvariety
+JET综合台,http://318.tugu.xyz//yyh.php?id=JET
+年代新闻,http://318.tugu.xyz//yyh.php?id=Eranews
+年代新闻,http://318.tugu.xyz//yyh.php?id=eranewslm
+年代新闻,http://318.tugu.xyz//yyh.php?id=155
+年代Much,http://318.tugu.xyz//yyh.php?id=eramuch
+非凡新闻,http://318.tugu.xyz//yyh.php?id=ustvnewshd
+非凡新闻,http://318.tugu.xyz//yyh.php?id=ustvnews
+非凡新闻,http://318.tugu.xyz//yyh.php?id=ustvnewslm
+非凡新闻,http://318.tugu.xyz//yyh.php?id=USNews
+非凡新闻,http://318.tugu.xyz//yyh.php?id=154
+非凡商业,http://318.tugu.xyz//yyh.php?id=ustvbusinesshd
+非凡商业,http://318.tugu.xyz//yyh.php?id=ustvbusiness
+寰宇新闻,http://318.tugu.xyz//yyh.php?id=globalnews
+寰宇新闻,http://318.tugu.xyz//yyh.php?id=Globalnewshd
+寰宇新闻,http://318.tugu.xyz//yyh.php?id=147
+寰宇新闻台湾台,http://318.tugu.xyz//yyh.php?id=globaltaiwan
+寰宇新闻台湾台,http://318.tugu.xyz//yyh.php?id=158
+寰宇财经台,http://318.tugu.xyz//yyh.php?id=globalfinance
+镜新闻,http://318.tugu.xyz//yyh.php?id=mnews
+镜新闻,http://318.tugu.xyz//yyh.php?id=mnewsy
+镜新闻,http://318.tugu.xyz//yyh.php?id=MNewsHD
+镜新闻,http://318.tugu.xyz//yyh.php?id=152
+东森超視美洲,http://318.tugu.xyz//yyh.php?id=ETTVSuperUS
+东森美洲,http://318.tugu.xyz//yyh.php?id=ETTVnewsUS
+东森美洲卫视,http://318.tugu.xyz//yyh.php?id=ETTVAsiaUS
+东森中国台,http://318.tugu.xyz//yyh.php?id=ETTVCN
+东森超视,http://318.tugu.xyz//yyh.php?id=ettvsuper
+东森超视,http://318.tugu.xyz//yyh.php?id=ETTVSuper
+东森亚洲,http://318.tugu.xyz//yyh.php?id=ettvasia
+东森亚洲,http://318.tugu.xyz//yyh.php?id=ETTVAsia
+东森综合,http://318.tugu.xyz//yyh.php?id=ettvvariety
+东森综合,http://318.tugu.xyz//yyh.php?id=ettvzhonghe
+东森综合,http://318.tugu.xyz//yyh.php?id=ETTVZH
+东森新闻,http://318.tugu.xyz//yyh.php?id=ebcnews
+东森新闻,http://318.tugu.xyz//yyh.php?id=ettvnews
+东森新闻,http://318.tugu.xyz//yyh.php?id=ebcnewsy
+东森新闻,http://318.tugu.xyz//yyh.php?id=ebcnewslm
+东森新闻,http://318.tugu.xyz//yyh.php?id=145
+东森新闻,http://318.tugu.xyz//yyh.php?id=ETTVNewsHD
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=ebcfinance
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=ebcfinancey
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=ebcfinancelm
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=ETTVFinanceHD
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=146
+东森LIVE,http://318.tugu.xyz//yyh.php?id=ebclive
+东森LIVE,http://318.tugu.xyz//yyh.php?id=setlive
+国兴卫视,http://318.tugu.xyz//yyh.php?id=gstv
+国兴卫视,http://318.tugu.xyz//yyh.php?id=GSTV
+三立都会台,http://318.tugu.xyz//yyh.php?id=setmetro
+三立都会台,http://318.tugu.xyz//yyh.php?id=SETMetro
+三立都会台,http://318.tugu.xyz//yyh.php?id=26
+三立综合台,http://318.tugu.xyz//yyh.php?id=setzonghe
+三立综合台,http://318.tugu.xyz//yyh.php?id=setzonghelm
+三立综合台,http://318.tugu.xyz//yyh.php?id=46
+三立台湾台,http://318.tugu.xyz//yyh.php?id=SETTaiwan
+三立台湾台,http://318.tugu.xyz//yyh.php?id=settaiwanlm
+三立台湾台,http://318.tugu.xyz//yyh.php?id=settaiwan_de
+三立台湾台,http://318.tugu.xyz//yyh.php?id=44
+三立新闻台,http://318.tugu.xyz//yyh.php?id=setnews
+三立新闻台,http://318.tugu.xyz//yyh.php?id=SETNews
+三立iNEWS,http://318.tugu.xyz//yyh.php?id=setinews
+三立iNEWS,http://318.tugu.xyz//yyh.php?id=SETINews
+三立国际台,http://318.tugu.xyz//yyh.php?id=SETInternational
+LIVE三立,http://318.tugu.xyz//yyh.php?id=151
+中天新闻台,http://318.tugu.xyz//yyh.php?id=ctinews
+中天新闻台,http://318.tugu.xyz//yyh.php?id=ctinewsy
+中天新闻台,http://318.tugu.xyz//yyh.php?id=ctinewslm
+中天新闻台,http://318.tugu.xyz//yyh.php?id=141
+中天新闻台2台,http://318.tugu.xyz//yyh.php?id=ctinews2
+中天综合,http://318.tugu.xyz//yyh.php?id=CTIZonghe
+中天综合,http://318.tugu.xyz//yyh.php?id=33
+中天综合,http://318.tugu.xyz//yyh.php?id=ctizonghe
+中天娱乐,http://318.tugu.xyz//yyh.php?id=ctient
+中天娱乐,http://318.tugu.xyz//yyh.php?id=CTIYLT
+中天娱乐,http://318.tugu.xyz//yyh.php?id=32
+纬来综合,http://318.tugu.xyz//yyh.php?id=VideolandVariety
+纬来综合,http://318.tugu.xyz//yyh.php?id=vdlandvariety
+纬来综合,http://318.tugu.xyz//yyh.php?id=VLOntv
+纬来精彩,http://318.tugu.xyz//yyh.php?id=VideolandWonderful
+纬来精彩,http://318.tugu.xyz//yyh.php?id=VLJingcai
+纬来育乐,http://318.tugu.xyz//yyh.php?id=VideolandEducational
+纬来育乐,http://318.tugu.xyz//yyh.php?id=vdlandyule
+纬来育乐,http://318.tugu.xyz//yyh.php?id=VLMaxtv
+八大综合台,http://318.tugu.xyz//yyh.php?id=gtvvariety
+八大综合台,http://318.tugu.xyz//yyh.php?id=badaent
+八大综合台,http://318.tugu.xyz//yyh.php?id=BadaZhonghe
+八大综合台,http://318.tugu.xyz//yyh.php?id=41
+八大精彩台,http://318.tugu.xyz//yyh.php?id=gtvbrilliant
+八大精彩台,http://318.tugu.xyz//yyh.php?id=43
+八大娱乐台,http://318.tugu.xyz//yyh.php?id=BadaAntertain
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=tvbsnews
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=tvbsnewsy
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=tvbsnewslm
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=TVBSNHD
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=139
+TVBS精采台,http://318.tugu.xyz//yyh.php?id=tvbse
+TVBS精采台,http://318.tugu.xyz//yyh.php?id=TVBSJingCaiTai
+TVBS精采台,http://318.tugu.xyz//yyh.php?id=TVBSJCT
+TVBS欢乐台,http://318.tugu.xyz//yyh.php?id=tvbsent
+TVBS欢乐台,http://318.tugu.xyz//yyh.php?id=31
+TVBS欢乐台,http://318.tugu.xyz//yyh.php?id=TVBSHLT
+TVBSHD,http://318.tugu.xyz//yyh.php?id=tvbs
+TVBSHD,http://318.tugu.xyz//yyh.php?id=tvbshdy
+TVBSHD,http://318.tugu.xyz//yyh.php?id=140
+TVBSHD,http://318.tugu.xyz//yyh.php?id=TVBSHD
+靖天综合台,http://318.tugu.xyz//yyh.php?id=goldentvvariety
+靖天综合台,http://318.tugu.xyz//yyh.php?id=JTZHT
+靖天日本台,http://318.tugu.xyz//yyh.php?id=goldentvjapan
+靖天日本台,http://318.tugu.xyz//yyh.php?id=JTRBT
+靖天资讯台,http://318.tugu.xyz//yyh.php?id=goldentvinfo
+靖天国际台,http://318.tugu.xyz//yyh.php?id=goldentvinternationalhd
+靖天国际台,http://318.tugu.xyz//yyh.php?id=KLTgoldentv
+靖天国际台,http://318.tugu.xyz//yyh.php?id=53
+靖天育乐台,http://318.tugu.xyz//yyh.php?id=goldentvyule
+靖天欢乐台,http://318.tugu.xyz//yyh.php?id=nicetvhd
+靖天欢乐台,http://318.tugu.xyz//yyh.php?id=nicetv
+ELTA娱乐,http://318.tugu.xyz//yyh.php?id=eltaentertaiment
+ELTA娱乐,http://318.tugu.xyz//yyh.php?id=ELTAYLT
+客家电视台,http://318.tugu.xyz//yyh.php?id=hakkatv
+信大,http://318.tugu.xyz//yyh.php?id=sindatv
+原住民频道,http://318.tugu.xyz//yyh.php?id=titv
+新唐人亞太台,http://318.tugu.xyz//yyh.php?id=NewTangDynasty
+VOA美国之音,http://318.tugu.xyz//yyh.php?id=voa
+韩国娱乐台,http://318.tugu.xyz//yyh.php?id=koreamtv
+古典音乐台,http://318.tugu.xyz//yyh.php?id=classica
+猪哥亮歌厅秀,http://318.tugu.xyz//yyh.php?id=ZhuGeliangCabaret
+人间卫视,http://318.tugu.xyz//yyh.php?id=buddhastelevision
+大爱一台,http://318.tugu.xyz//yyh.php?id=daai1
+大爱二台,http://318.tugu.xyz//yyh.php?id=daai2
+好消息,http://318.tugu.xyz//yyh.php?id=goodtv1
+好消息,http://318.tugu.xyz//yyh.php?id=http%3A%2F%2Flive.streamingfast.net%2Fosmflivech1.m3u8
+好消息2,http://318.tugu.xyz//yyh.php?id=goodtv2
+好消息2,http://318.tugu.xyz//yyh.php?id=http%3A%2F%2Flive.streamingfast.net%2Fosmflivech2.m3u8
+国会频道1,http://318.tugu.xyz//yyh.php?id=CongressChannel1
+国会频道1,http://318.tugu.xyz//yyh.php?id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4HysYHJ6GkY
+国会频道2,http://318.tugu.xyz//yyh.php?id=CongressChannel2
+国会频道2,http://318.tugu.xyz//yyh.php?id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRAP4h3q6_Sg
+新闻(1),#genre#
+寰宇新闻,http://318.tugu.xyz//yyh.php?id=globalnews
+寰宇新闻,http://318.tugu.xyz//yyh.php?id=Globalnewshd
+寰宇新闻,http://318.tugu.xyz//yyh.php?id=147
+寰宇新闻台湾台,http://318.tugu.xyz//yyh.php?id=globaltaiwan
+寰宇新闻台湾台,http://318.tugu.xyz//yyh.php?id=158
+寰宇财经台,http://318.tugu.xyz//yyh.php?id=globalfinance
+镜新闻,http://318.tugu.xyz//yyh.php?id=mnews
+镜新闻,http://318.tugu.xyz//yyh.php?id=mnewsy
+镜新闻,http://318.tugu.xyz//yyh.php?id=MNewsHD
+镜新闻,http://318.tugu.xyz//yyh.php?id=152
+中天新闻台,http://318.tugu.xyz//yyh.php?id=ctinews
+中天新闻台,http://318.tugu.xyz//yyh.php?id=ctinewsy
+中天新闻台,http://318.tugu.xyz//yyh.php?id=ctinewslm
+中天新闻台,http://318.tugu.xyz//yyh.php?id=141
+中天新闻台2台,http://318.tugu.xyz//yyh.php?id=ctinews2
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=tvbsnews
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=tvbsnewsy
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=tvbsnewslm
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=TVBSNHD
+TVBS新闻台,http://318.tugu.xyz//yyh.php?id=139
+TVBSHD,http://318.tugu.xyz//yyh.php?id=tvbs
+TVBSHD,http://318.tugu.xyz//yyh.php?id=tvbshdy
+TVBSHD,http://318.tugu.xyz//yyh.php?id=140
+TVBSHD,http://318.tugu.xyz//yyh.php?id=TVBSHD
+中视新闻,http://318.tugu.xyz//yyh.php?id=ctvnews
+中视新闻,http://318.tugu.xyz//yyh.php?id=ctvnewsy
+中视新闻,http://318.tugu.xyz//yyh.php?id=ctvnewslm
+中视新闻,http://318.tugu.xyz//yyh.php?id=143
+公视新闻,http://318.tugu.xyz//yyh.php?id=PTSNews
+民视新闻台,http://318.tugu.xyz//yyh.php?id=ftvnews
+民视新闻台,http://318.tugu.xyz//yyh.php?id=ftvnewsy
+民视新闻台,http://318.tugu.xyz//yyh.php?id=ftvnewslm
+民视新闻台,http://318.tugu.xyz//yyh.php?id=144
+台视新闻,http://318.tugu.xyz//yyh.php?id=ttvnewshdy
+台视新闻,http://318.tugu.xyz//yyh.php?id=ttvnewslm
+台视新闻,http://318.tugu.xyz//yyh.php?id=TTVNews
+台视新闻,http://318.tugu.xyz//yyh.php?id=148
+华视新闻资讯,http://318.tugu.xyz//yyh.php?id=ctsnewsinfo
+华视新闻资讯,http://318.tugu.xyz//yyh.php?id=ctsnews
+壹新闻,http://318.tugu.xyz//yyh.php?id=nextnews
+壹新闻,http://318.tugu.xyz//yyh.php?id=nexttvnews
+壹新闻,http://318.tugu.xyz//yyh.php?id=149
+壹新闻,http://318.tugu.xyz//yyh.php?id=NEXTNews
+年代新闻,http://318.tugu.xyz//yyh.php?id=Eranews
+年代新闻,http://318.tugu.xyz//yyh.php?id=eranewslm
+年代新闻,http://318.tugu.xyz//yyh.php?id=155
+非凡新闻,http://318.tugu.xyz//yyh.php?id=ustvnewshd
+非凡新闻,http://318.tugu.xyz//yyh.php?id=ustvnews
+非凡新闻,http://318.tugu.xyz//yyh.php?id=ustvnewslm
+非凡新闻,http://318.tugu.xyz//yyh.php?id=USNews
+非凡新闻,http://318.tugu.xyz//yyh.php?id=154
+东森新闻,http://318.tugu.xyz//yyh.php?id=ebcnews
+东森新闻,http://318.tugu.xyz//yyh.php?id=ettvnews
+东森新闻,http://318.tugu.xyz//yyh.php?id=ebcnewsy
+东森新闻,http://318.tugu.xyz//yyh.php?id=ebcnewslm
+东森新闻,http://318.tugu.xyz//yyh.php?id=145
+东森新闻,http://318.tugu.xyz//yyh.php?id=ETTVNewsHD
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=ebcfinance
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=ebcfinancey
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=ebcfinancelm
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=ETTVFinanceHD
+东森财经新闻,http://318.tugu.xyz//yyh.php?id=146
+三立新闻台,http://318.tugu.xyz//yyh.php?id=setnews
+三立新闻台,http://318.tugu.xyz//yyh.php?id=SETNews
+三立iNEWS,http://318.tugu.xyz//yyh.php?id=setinews
+三立iNEWS,http://318.tugu.xyz//yyh.php?id=SETINews
+三立国际台,http://318.tugu.xyz//yyh.php?id=SETInternational
+LIVE三立,http://318.tugu.xyz//yyh.php?id=setlive
+体育(1),#genre#
+Now Sports 1,http://318.tugu.xyz//yyh.php?id=NowSports1HK
+Now Sports 3,http://318.tugu.xyz//yyh.php?id=NowSports3HK
+Now Sports 4,http://318.tugu.xyz//yyh.php?id=NowSports4HK
+Now Sports 5,http://318.tugu.xyz//yyh.php?id=NowSports5HK
+Now Sports 6,http://318.tugu.xyz//yyh.php?id=NowSports6HK
+Now Sports 7,http://318.tugu.xyz//yyh.php?id=NowSports7HK
+Now Sports 7,http://318.tugu.xyz//yyh.php?id=197
+Now Sports 英超1台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague1HK
+Now Sports 英超1台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague1HK3
+Now Sports 英超1台,http://318.tugu.xyz//yyh.php?id=22
+Now Sports 英超1台,http://318.tugu.xyz//yyh.php?id=NowPremier1HK
+Now Sports 英超2台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague2HK
+Now Sports 英超3台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague3HK
+Now Sports 英超4台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague4HK
+Now Sports 英超5台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague5HK
+Now Sports 英超6台,http://318.tugu.xyz//yyh.php?id=NowSportsPremierLeague6HK
+Now Sports 641,http://318.tugu.xyz//yyh.php?id=NowSportsCH641HK
+Now Sports 630,http://318.tugu.xyz//yyh.php?id=Now630HK
+Now Sports Plus,http://318.tugu.xyz//yyh.php?id=NowSportsPlusHK
+NBA,http://318.tugu.xyz//yyh.php?id=NBATVHK
+NBA,http://318.tugu.xyz//yyh.php?id=NBAHK
+NBA,http://318.tugu.xyz//yyh.php?id=nbatv
+NBA,http://318.tugu.xyz//yyh.php?id=76
+ELTA体育2,http://318.tugu.xyz//yyh.php?id=eltasports2
+ELTA体育2,http://318.tugu.xyz//yyh.php?id=189
+ELTA体育4,http://318.tugu.xyz//yyh.php?id=eltasports4
+ELTA体育MAX1,http://318.tugu.xyz//yyh.php?id=eltaspmax1
+ELTA体育MAX2,http://318.tugu.xyz//yyh.php?id=eltaspmax2
+ELTA体育MAX3,http://318.tugu.xyz//yyh.php?id=eltaspmax3
+ELTA体育MAX4,http://318.tugu.xyz//yyh.php?id=eltaspmax4
+GinxTV电竞频道,http://318.tugu.xyz//yyh.php?id=GINXEsportsTV
+纬来体育,http://318.tugu.xyz//yyh.php?id=VideolandSports
+纬来体育,http://318.tugu.xyz//yyh.php?id=vdlandsports
+纬来体育,http://318.tugu.xyz//yyh.php?id=58
+纬来体育,http://318.tugu.xyz//yyh.php?id=VLSportHD
+博斯运动1,http://318.tugu.xyz//yyh.php?id=bosisports
+博斯运动1,http://318.tugu.xyz//yyh.php?id=bosisport
+博斯运动1,http://318.tugu.xyz//yyh.php?id=61
+博斯运动1,http://318.tugu.xyz//yyh.php?id=BosiYD1
+博斯运动2,http://318.tugu.xyz//yyh.php?id=62
+博斯运动2,http://318.tugu.xyz//yyh.php?id=BosiYD2
+博斯高球1,http://318.tugu.xyz//yyh.php?id=bosigolf
+博斯高球1,http://318.tugu.xyz//yyh.php?id=bosigolf1
+博斯高球1,http://318.tugu.xyz//yyh.php?id=63
+博斯高球2,http://318.tugu.xyz//yyh.php?id=64
+博斯高球2,http://318.tugu.xyz//yyh.php?id=bosigolf2
+博斯网球,http://318.tugu.xyz//yyh.php?id=bositennis
+博斯网球,http://318.tugu.xyz//yyh.php?id=bosi_tennis
+博斯网球,http://318.tugu.xyz//yyh.php?id=65
+博斯网球,http://318.tugu.xyz//yyh.php?id=BosiWQ
+博斯无限,http://318.tugu.xyz//yyh.php?id=bosiunlimited
+博斯无限,http://318.tugu.xyz//yyh.php?id=bosiunlimit
+博斯无限,http://318.tugu.xyz//yyh.php?id=BosiWX1
+博斯无限2,http://318.tugu.xyz//yyh.php?id=bosiunlimit2
+博斯无限2,http://318.tugu.xyz//yyh.php?id=BosiWX2
+博斯无限2,http://318.tugu.xyz//yyh.php?id=89
+博斯魅力,http://318.tugu.xyz//yyh.php?id=bosicharm
+博斯魅力,http://318.tugu.xyz//yyh.php?id=BosiML
+智林体育台,http://318.tugu.xyz//yyh.php?id=oursport
+TRACESportStars,http://318.tugu.xyz//yyh.php?id=tracesportstars
+ELTA体育1,http://318.tugu.xyz//yyh.php?id=eltasports1
+ELTA体育1,http://318.tugu.xyz//yyh.php?id=eltasports1
+ELTA体育1,http://318.tugu.xyz//yyh.php?id=188
+CCTV5+,http://318.tugu.xyz//yyh.php?id=cctv5phd%23cctv5p
+CCTV5,http://318.tugu.xyz//yyh.php?id=cctv5hd%23cctv5
+CCTV16,http://318.tugu.xyz//yyh.php?id=cctv16hd%23cctv16
+五星体育,http://318.tugu.xyz//yyh.php?id=fivestarsports
+电影(1),#genre#
+美亚电影台,http://318.tugu.xyz//yyh.php?id=MeiYaMovieTW
+美亚电影台,http://318.tugu.xyz//yyh.php?id=113
+美亚电影台,http://318.tugu.xyz//yyh.php?id=meiahmovie
+龙祥时代,http://318.tugu.xyz//yyh.php?id=LSTIME
+龙祥时代,http://318.tugu.xyz//yyh.php?id=lstimemovies
+龙祥时代,http://318.tugu.xyz//yyh.php?id=LSTime
+龙祥时代,http://318.tugu.xyz//yyh.php?id=Lungxiangtime
+龙华偶像,http://318.tugu.xyz//yyh.php?id=ltvidolhd
+龙华偶像,http://318.tugu.xyz//yyh.php?id=ltvIdol
+龙华偶像,http://318.tugu.xyz//yyh.php?id=ltvidol
+龙华偶像,http://318.tugu.xyz//yyh.php?id=LHOXT
+龙华偶像,http://318.tugu.xyz//yyh.php?id=52
+龙华戏剧,http://318.tugu.xyz//yyh.php?id=ltvdrama
+龙华戏剧,http://318.tugu.xyz//yyh.php?id=ltvdramalm
+龙华戏剧,http://318.tugu.xyz//yyh.php?id=LHXJT
+龙华戏剧,http://318.tugu.xyz//yyh.php?id=50
+龙华日韩,http://318.tugu.xyz//yyh.php?id=ltvjpkr
+龙华电影,http://318.tugu.xyz//yyh.php?id=ltvmovies
+龙华电影,http://318.tugu.xyz//yyh.php?id=112
+龙华影剧,http://318.tugu.xyz//yyh.php?id=ltvmoviedrama
+龙华洋片,http://318.tugu.xyz//yyh.php?id=ltvforeign
+龙华洋片,http://318.tugu.xyz//yyh.php?id=ltvforeignlm
+龙华洋片,http://318.tugu.xyz//yyh.php?id=LHYPT
+龙华洋片,http://318.tugu.xyz//yyh.php?id=107
+龙华卡通,http://318.tugu.xyz//yyh.php?id=ltvcartoonhd
+龙华卡通,http://318.tugu.xyz//yyh.php?id=LHKTT
+龙华经典,http://318.tugu.xyz//yyh.php?id=ltvclassichd
+龙华经典,http://318.tugu.xyz//yyh.php?id=LHJDT
+纬来戏剧,http://318.tugu.xyz//yyh.php?id=VideolandDrama
+纬来戏剧,http://318.tugu.xyz//yyh.php?id=vdlanddrama
+纬来戏剧,http://318.tugu.xyz//yyh.php?id=VLXiju
+纬来日本,http://318.tugu.xyz//yyh.php?id=VideolandJapan
+纬来日本,http://318.tugu.xyz//yyh.php?id=vdlandjapan
+纬来日本,http://318.tugu.xyz//yyh.php?id=54
+纬来日本,http://318.tugu.xyz//yyh.php?id=VLJapan
+纬来电影,http://318.tugu.xyz//yyh.php?id=VideolandMovies
+纬来电影,http://318.tugu.xyz//yyh.php?id=vdlandmovies
+纬来电影,http://318.tugu.xyz//yyh.php?id=103
+纬来电影,http://318.tugu.xyz//yyh.php?id=VLMovies
+东森电影,http://318.tugu.xyz//yyh.php?id=ettvmovies
+东森电影,http://318.tugu.xyz//yyh.php?id=ebcmovies
+东森电影,http://318.tugu.xyz//yyh.php?id=ETTVMovie
+东森电影,http://318.tugu.xyz//yyh.php?id=104
+东森洋片,http://318.tugu.xyz//yyh.php?id=ettvforeign
+东森洋片,http://318.tugu.xyz//yyh.php?id=ebcforeign
+东森洋片,http://318.tugu.xyz//yyh.php?id=ETTVWestern
+东森洋片,http://318.tugu.xyz//yyh.php?id=105
+东森戏剧,http://318.tugu.xyz//yyh.php?id=ettvdrama
+东森戏剧,http://318.tugu.xyz//yyh.php?id=ebcdrama
+东森戏剧,http://318.tugu.xyz//yyh.php?id=ETTVXJ
+东森戏剧,http://318.tugu.xyz//yyh.php?id=106
+三立戏剧台,http://318.tugu.xyz//yyh.php?id=47
+三立戏剧台,http://318.tugu.xyz//yyh.php?id=SETDrama
+三立戏剧台,http://318.tugu.xyz//yyh.php?id=setdrama_de
+八大第一台,http://318.tugu.xyz//yyh.php?id=Badafirst
+八大第一台,http://318.tugu.xyz//yyh.php?id=badafirst
+八大第一台,http://318.tugu.xyz//yyh.php?id=40
+八大戏剧台,http://318.tugu.xyz//yyh.php?id=badadrama
+八大戏剧台,http://318.tugu.xyz//yyh.php?id=BadaDrama
+八大戏剧台,http://318.tugu.xyz//yyh.php?id=42
+靖天戏剧台,http://318.tugu.xyz//yyh.php?id=goldentvdrama
+靖天戏剧台,http://318.tugu.xyz//yyh.php?id=goldentvforeign
+靖天映画台,http://318.tugu.xyz//yyh.php?id=goldentvpictures
+靖天电影台,http://318.tugu.xyz//yyh.php?id=goldentvmovies
+华艺MBC综合台,http://318.tugu.xyz//yyh.php?id=dragonartmbc
+华艺MBC综合台,http://318.tugu.xyz//yyh.php?id=109
+壹电影,http://318.tugu.xyz//yyh.php?id=nexttvmovies
+EYETV戏剧,http://318.tugu.xyz//yyh.php?id=eyetvdrama
+ELTA影剧,http://318.tugu.xyz//yyh.php?id=eltamoviedrama
+ELTA影剧,http://318.tugu.xyz//yyh.php?id=eltayingju
+ELTA影剧,http://318.tugu.xyz//yyh.php?id=ELTAYJT
+ELTA影剧,http://318.tugu.xyz//yyh.php?id=57
+ELTA综合,http://318.tugu.xyz//yyh.php?id=eltavariety
+ELTA综合,http://318.tugu.xyz//yyh.php?id=ELTAZongHe
+采昌影剧台,http://318.tugu.xyz//yyh.php?id=114
+采昌影剧台,http://318.tugu.xyz//yyh.php?id=WeishimoviesTW
+采昌影剧台,http://318.tugu.xyz//yyh.php?id=caichangmovies
+AXN頻道,http://318.tugu.xyz//yyh.php?id=AXNHDTW
+AXN頻道,http://318.tugu.xyz//yyh.php?id=102
+AXN頻道,http://318.tugu.xyz//yyh.php?id=axntw
+AXN頻道,http://318.tugu.xyz//yyh.php?id=AXNHDTW
+AXN頻道,http://318.tugu.xyz//yyh.php?id=102
+华纳电影,http://318.tugu.xyz//yyh.php?id=warnertv
+华纳电影,http://318.tugu.xyz//yyh.php?id=119
+tVN,http://318.tugu.xyz//yyh.php?id=tvntw
+tVN,http://318.tugu.xyz//yyh.php?id=tvntw
+CinemaWorld,http://318.tugu.xyz//yyh.php?id=cinemaworld
+CINEMAX,http://318.tugu.xyz//yyh.php?id=cinemax
+CINEMAX,http://318.tugu.xyz//yyh.php?id=101
+HBO,http://318.tugu.xyz//yyh.php?id=HBOTW
+HBOHD,http://318.tugu.xyz//yyh.php?id=HBOHD
+HBOHD,http://318.tugu.xyz//yyh.php?id=hbo
+HBOHD,http://318.tugu.xyz//yyh.php?id=96
+HBO原创,http://318.tugu.xyz//yyh.php?id=HBOSignature
+HBO原创,http://318.tugu.xyz//yyh.php?id=97
+HBO原创,http://318.tugu.xyz//yyh.php?id=hbosignature
+HBO强档,http://318.tugu.xyz//yyh.php?id=hbohits
+HBO强档,http://318.tugu.xyz//yyh.php?id=HBOHits
+HBO强档,http://318.tugu.xyz//yyh.php?id=98
+HBO家庭,http://318.tugu.xyz//yyh.php?id=HBOFamily
+HBO家庭,http://318.tugu.xyz//yyh.php?id=99
+私人影院,http://318.tugu.xyz//yyh.php?id=SRYY
+好莱坞电影,http://318.tugu.xyz//yyh.php?id=hollywood
+好莱坞电影,http://318.tugu.xyz//yyh.php?id=Hollywoodmovies
+好莱坞电影,http://318.tugu.xyz//yyh.php?id=100
+amc最爱电影,http://318.tugu.xyz//yyh.php?id=amcmovies
+CatchPlay电影台,http://318.tugu.xyz//yyh.php?id=cactchplayhd
+CatchPlay电影台,http://318.tugu.xyz//yyh.php?id=CATCHPLAY
+经典电影台,http://318.tugu.xyz//yyh.php?id=classicmovies
+Thrill惊悚,http://318.tugu.xyz//yyh.php?id=121
+纪实(1),#genre#
+幸福空间居家台,http://318.tugu.xyz//yyh.php?id=gstv
+BBC Earth,http://318.tugu.xyz//yyh.php?id=bbcearth
+BBC Earth,http://318.tugu.xyz//yyh.php?id=BBCEarthTW
+BBC Lifestyle,http://318.tugu.xyz//yyh.php?id=bbclifestyle
+BBC Lifestyle,http://318.tugu.xyz//yyh.php?id=BBCLifestyleTW
+HISTORY2,http://318.tugu.xyz//yyh.php?id=HISTORY2TW
+国家地理,http://318.tugu.xyz//yyh.php?id=124
+国家地理野生,http://318.tugu.xyz//yyh.php?id=NatGeoWildHD
+动物星球,http://318.tugu.xyz//yyh.php?id=126
+探索频道,http://318.tugu.xyz//yyh.php?id=DiscoveryChannel
+探索频道,http://318.tugu.xyz//yyh.php?id=127
+探索科学,http://318.tugu.xyz//yyh.php?id=discoveryscience
+探索科学,http://318.tugu.xyz//yyh.php?id=DiscoveryScience
+探索科学,http://318.tugu.xyz//yyh.php?id=129
+探索亚洲,http://318.tugu.xyz//yyh.php?id=discoveryasia
+探索亚洲,http://318.tugu.xyz//yyh.php?id=DiscoveryAsia
+探索亚洲,http://318.tugu.xyz//yyh.php?id=130
+亚洲美食频道,http://318.tugu.xyz//yyh.php?id=afn
+美食星球,http://318.tugu.xyz//yyh.php?id=foodplanettw
+美食星球,http://318.tugu.xyz//yyh.php?id=MSXQ
+亚洲旅游台,http://318.tugu.xyz//yyh.php?id=travelasiafhd
+亚洲旅游台,http://318.tugu.xyz//yyh.php?id=travelasia
+亚洲旅游台,http://318.tugu.xyz//yyh.php?id=asiatravel
+亚洲旅游台,http://318.tugu.xyz//yyh.php?id=131
+亚洲旅游台,http://318.tugu.xyz//yyh.php?id=YZLYT
+EYETV旅游,http://318.tugu.xyz//yyh.php?id=eyetvtravel
+EYETV旅游,http://318.tugu.xyz//yyh.php?id=EYETravel
+ELTA生活旅游,http://318.tugu.xyz//yyh.php?id=eltafoodietravel
+少儿(1),#genre#
+靖天卡通台,http://318.tugu.xyz//yyh.php?id=goldentvkids
+靖天卡通台,http://318.tugu.xyz//yyh.php?id=goldentvkidslm
+靖天卡通台,http://318.tugu.xyz//yyh.php?id=55
+靖洋卡通台,http://318.tugu.xyz//yyh.php?id=nicebingo
+靖洋卡通台,http://318.tugu.xyz//yyh.php?id=NiceBingo
+东森幼幼,http://318.tugu.xyz//yyh.php?id=ettvyoyo
+东森幼幼,http://318.tugu.xyz//yyh.php?id=191
+东森幼幼,http://318.tugu.xyz//yyh.php?id=ETTVYOYO
+MOMO亲子台,http://318.tugu.xyz//yyh.php?id=momoparentchild
+MOMO亲子台,http://318.tugu.xyz//yyh.php?id=MOMOQZT
+CN卡通频道,http://318.tugu.xyz//yyh.php?id=CnCartoon
+CN卡通频道,http://318.tugu.xyz//yyh.php?id=cncartoon
+CN卡通频道,http://318.tugu.xyz//yyh.php?id=CNTW
+尼克儿童频道,http://318.tugu.xyz//yyh.php?id=nickelodeon
+尼克儿童频道,http://318.tugu.xyz//yyh.php?id=nickelodeonlm
+Boomerang,http://318.tugu.xyz//yyh.php?id=BoomerangTW
+NickJr儿童频道,http://318.tugu.xyz//yyh.php?id=nickjr
+NickJr儿童频道,http://318.tugu.xyz//yyh.php?id=nickjr
+BBC Cbeebies,http://318.tugu.xyz//yyh.php?id=cbeebies
+BBC Cbeebies,http://318.tugu.xyz//yyh.php?id=BBCCbeebiesTW
+经典卡通台,http://318.tugu.xyz//yyh.php?id=classiccartoon
+MOMO台,http://318.tugu.xyz//yyh.php?id=momokids
+马来(1),#genre#
+DidikTV7,http://318.tugu.xyz//yyh.php?id=DidikTV7
+8TV 八度空间,http://318.tugu.xyz//yyh.php?id=8TV
+8TV 八度空间,http://318.tugu.xyz//yyh.php?id=8TVHD
+iQIYI爱奇艺,http://318.tugu.xyz//yyh.php?id=AstroiQIYIHD
+TVB千禧经典台,http://318.tugu.xyz//yyh.php?id=TVBClassicMY
+Astro AEC,http://318.tugu.xyz//yyh.php?id=AstroAECHD
+Astro AEC,http://318.tugu.xyz//yyh.php?id=AstroAEC
+Astro AEC,http://318.tugu.xyz//yyh.php?id=AEC
+Astro QJ,http://318.tugu.xyz//yyh.php?id=AstroQuanJiaHD
+Astro QJ,http://318.tugu.xyz//yyh.php?id=QuanJia
+天映频道,http://318.tugu.xyz//yyh.php?id=CelestialMoviesHK
+天映频道,http://318.tugu.xyz//yyh.php?id=CelestialMoviesCN
+天映经典,http://318.tugu.xyz//yyh.php?id=CelestialClassicMY
+天映经典,http://318.tugu.xyz//yyh.php?id=CelestialClassicMYCN
+TVB翡翠台（马来）,http://318.tugu.xyz//yyh.php?id=TVBjadeMY
+TVB翡翠台（马来）,http://318.tugu.xyz//yyh.php?id=TVBjadeMYCN
+AOD 311,http://318.tugu.xyz//yyh.php?id=AstroAOD311HDHK
+AOD 311,http://318.tugu.xyz//yyh.php?id=AstroAOD311HDCN
+中天亚洲,http://318.tugu.xyz//yyh.php?id=CTIAsiaHDMY
+TVB娱乐新闻台,http://318.tugu.xyz//yyh.php?id=TVBENEWS
+TVB星河频道,http://318.tugu.xyz//yyh.php?id=TVBXingHeHK
+TVB星河频道,http://318.tugu.xyz//yyh.php?id=TVBXingHeCN
+TVBSAsia,http://318.tugu.xyz//yyh.php?id=TVBSAsia
+凤凰中文,http://318.tugu.xyz//yyh.php?id=PhoenixChineseMY
+凤凰资讯,http://318.tugu.xyz//yyh.php?id=PhoenixInfoMY
+凤凰资讯,http://318.tugu.xyz//yyh.php?id=phoenixinfo
+欢喜台,http://318.tugu.xyz//yyh.php?id=AstroHuaHeeDaiHD
+欢喜台,http://318.tugu.xyz//yyh.php?id=AstroHuaHeeDaiHDCN
+CCTV-4,http://318.tugu.xyz//yyh.php?id=CCTV4MY
+SukanRTM,http://318.tugu.xyz//yyh.php?id=RTMSukanHD
+BeritaRTM,http://318.tugu.xyz//yyh.php?id=Beritartm
+HEROES,http://318.tugu.xyz//yyh.php?id=Heroes
+TV1,http://318.tugu.xyz//yyh.php?id=TV1
+TV2,http://318.tugu.xyz//yyh.php?id=TV2
+TV3,http://318.tugu.xyz//yyh.php?id=TV3
+Astro Ria,http://318.tugu.xyz//yyh.php?id=AstroRiaHD
+Astro Ria,http://318.tugu.xyz//yyh.php?id=AstroRia
+Astro Prima,http://318.tugu.xyz//yyh.php?id=AstroPrimaHD
+Astro Prima,http://318.tugu.xyz//yyh.php?id=AstroPrima
+Astro Oasis,http://318.tugu.xyz//yyh.php?id=AstroOasisHD
+Astro Warna,http://318.tugu.xyz//yyh.php?id=AstroWarnaHD
+Astro Warna,http://318.tugu.xyz//yyh.php?id=AstroWarna
+Astro Citra,http://318.tugu.xyz//yyh.php?id=AstroCitraHD
+Astro Citra,http://318.tugu.xyz//yyh.php?id=AstroCitra
+Astro Rania,http://318.tugu.xyz//yyh.php?id=AstroRaniaHD
+Astro Aura,http://318.tugu.xyz//yyh.php?id=AstroAuraHD
+TV Alhijrah,http://318.tugu.xyz//yyh.php?id=TVAlhijrah
+TV Okey,http://318.tugu.xyz//yyh.php?id=TVOkey
+9TV,http://318.tugu.xyz//yyh.php?id=9TV
+Vaanavil,http://318.tugu.xyz//yyh.php?id=AstroVaanavilHD
+Adithya,http://318.tugu.xyz//yyh.php?id=AdithyaHD
+KBSWorld,http://318.tugu.xyz//yyh.php?id=KBSWorld
+One,http://318.tugu.xyz//yyh.php?id=OneHDCN
+One,http://318.tugu.xyz//yyh.php?id=OneHDMY
+One,http://318.tugu.xyz//yyh.php?id=OneHDKOR
+One,http://318.tugu.xyz//yyh.php?id=ONEMalay
+tvN,http://318.tugu.xyz//yyh.php?id=tVNHD
+tvN,http://318.tugu.xyz//yyh.php?id=HubtvN
+NHK World Premium,http://318.tugu.xyz//yyh.php?id=NHKWorldPremium
+Boo,http://318.tugu.xyz//yyh.php?id=BOO
+HBO,http://318.tugu.xyz//yyh.php?id=HBOEN
+HBO,http://318.tugu.xyz//yyh.php?id=HBOMY
+HBO,http://318.tugu.xyz//yyh.php?id=hbosg
+Cinemax,http://318.tugu.xyz//yyh.php?id=Cinemax
+HBOFamily,http://318.tugu.xyz//yyh.php?id=HBOFamilyMY
+HBOFamily,http://318.tugu.xyz//yyh.php?id=hbofamilysg
+HBOHits,http://318.tugu.xyz//yyh.php?id=HBOHitsMY
+HBOHits,http://318.tugu.xyz//yyh.php?id=hbohitssg
+Awani,http://318.tugu.xyz//yyh.php?id=AstroAwaniHD
+Bernama,http://318.tugu.xyz//yyh.php?id=BernamaHD
+CGTN,http://318.tugu.xyz//yyh.php?id=CGTNHD
+CGTN,http://318.tugu.xyz//yyh.php?id=https%3A%2F%2Flive.cgtn.com%2F1000%2Fprog_index.m3u8
+CNN,http://318.tugu.xyz//yyh.php?id=CNNHD
+CNN,http://318.tugu.xyz//yyh.php?id=CNN
+BBCWorldNews,http://318.tugu.xyz//yyh.php?id=BBCWorldNewsHD
+BBCWorldNews,http://318.tugu.xyz//yyh.php?id=BBCNews
+Aljazeera,http://318.tugu.xyz//yyh.php?id=AljazeeraHD
+SkyNews,http://318.tugu.xyz//yyh.php?id=SkyNewsHD
+ChannelNewsAsia,http://318.tugu.xyz//yyh.php?id=CNAHD
+ChannelNewsAsia,http://318.tugu.xyz//yyh.php?id=http%3A%2F%2Fd2e1asnsl7br7b.cloudfront.net%2F7782e205e72f43aeb4a48ec97f66ebbe%2Findex_5.m3u8
+CNBC,http://318.tugu.xyz//yyh.php?id=CNBCHD
+Bloomberg TV,http://318.tugu.xyz//yyh.php?id=BloombergHD
+Love Nature,http://318.tugu.xyz//yyh.php?id=LoveNatureHD
+History,http://318.tugu.xyz//yyh.php?id=History
+Ceria,http://318.tugu.xyz//yyh.php?id=AstroCeriaHD
+Ceria,http://318.tugu.xyz//yyh.php?id=AstroCeriaMul
+CartoonNetwork,http://318.tugu.xyz//yyh.php?id=CartoonNetworkHD
+CartoonNetwork,http://318.tugu.xyz//yyh.php?id=CartoonNetworkCN
+CartoonNetwork,http://318.tugu.xyz//yyh.php?id=CartoonNetworkMY
+Nickelodeon,http://318.tugu.xyz//yyh.php?id=NickelodeonHD
+Nickelodeon,http://318.tugu.xyz//yyh.php?id=NickelodeonHDCN
+Nickelodeon,http://318.tugu.xyz//yyh.php?id=NickelodeonHDMY
+NickJr,http://318.tugu.xyz//yyh.php?id=NickJuniorHD
+NickJr,http://318.tugu.xyz//yyh.php?id=NickJuniorHDCN
+NickJr,http://318.tugu.xyz//yyh.php?id=NickJuniorHDMY
+CBeebies,http://318.tugu.xyz//yyh.php?id=CBeebiesHD
+AXN,http://318.tugu.xyz//yyh.php?id=AXNHD
+Hits,http://318.tugu.xyz//yyh.php?id=HitsHD
+TLC,http://318.tugu.xyz//yyh.php?id=TLCHD
+WarnerTV,http://318.tugu.xyz//yyh.php?id=WarnerTVMY
+HGTV,http://318.tugu.xyz//yyh.php?id=HGTVHD
+Arena,http://318.tugu.xyz//yyh.php?id=AstroArenaHD
+SuperSport,http://318.tugu.xyz//yyh.php?id=AstroSupersport1HD
+SuperSport2,http://318.tugu.xyz//yyh.php?id=AstroSupersport2HD
+SuperSport3,http://318.tugu.xyz//yyh.php?id=AstroSupersport3HD
+SuperSport4,http://318.tugu.xyz//yyh.php?id=AstroSupersport4HD
+SPOTV,http://318.tugu.xyz//yyh.php?id=SPOTV
+Eurosport,http://318.tugu.xyz//yyh.php?id=EuroSportHD
+新加坡(1),#genre#
+Mediacorp Suria,http://318.tugu.xyz//yyh.php?id=SuriaHD
+Mediacorp-5,http://318.tugu.xyz//yyh.php?id=Channel5HD
+Mediacorp-8,http://318.tugu.xyz//yyh.php?id=Channel8HD
+Mediacorp-U,http://318.tugu.xyz//yyh.php?id=ChannelUHD
+TVB翡翠台（新加坡）,http://318.tugu.xyz//yyh.php?id=tvbjadesg
+TVB星河频道,http://318.tugu.xyz//yyh.php?id=tvbxinghesg
+天映频道,http://318.tugu.xyz//yyh.php?id=celestialmoviessg
+都会台,http://318.tugu.xyz//yyh.php?id=HubECity
+AstroSensasi,http://318.tugu.xyz//yyh.php?id=Sensasi
+AstroSensasi,http://318.tugu.xyz//yyh.php?id=Ria
+AstroWarna,http://318.tugu.xyz//yyh.php?id=AstroWarnaHDSG
+Mediacorp Vasantham,http://318.tugu.xyz//yyh.php?id=VasanthamHD
+RockAction,http://318.tugu.xyz//yyh.php?id=RockAction
+RockEntertainment,http://318.tugu.xyz//yyh.php?id=RockEntertainment
+HBO,http://318.tugu.xyz//yyh.php?id=hbosg
+HBOFamily,http://318.tugu.xyz//yyh.php?id=hbofamilysg
+HBOHits,http://318.tugu.xyz//yyh.php?id=hbohitssg
+HBOSignature,http://318.tugu.xyz//yyh.php?id=hbosignaturesg
+Cinemax,http://318.tugu.xyz//yyh.php?id=cinemaxsg
+Gem,http://318.tugu.xyz//yyh.php?id=Gem
+GlobalTrekker,http://318.tugu.xyz//yyh.php?id=GlobalTrekker
+Travelxp,http://318.tugu.xyz//yyh.php?id=Travelxp
+Animax,http://318.tugu.xyz//yyh.php?id=Animax
+MolaSport,http://318.tugu.xyz//yyh.php?id=MolaSport
+HubSports1,http://318.tugu.xyz//yyh.php?id=HubSports1
+HubSports2,http://318.tugu.xyz//yyh.php?id=HubSports2
+HubSports3,http://318.tugu.xyz//yyh.php?id=HubSports3
+HubSports4,http://318.tugu.xyz//yyh.php?id=HubSports4
+HubSports5,http://318.tugu.xyz//yyh.php?id=HubSports5
+HubPremier1,http://318.tugu.xyz//yyh.php?id=HubPremier1
+HubPremier2,http://318.tugu.xyz//yyh.php?id=HubPremier2
+HubPremier3,http://318.tugu.xyz//yyh.php?id=HubPremier3
+HubPremier4,http://318.tugu.xyz//yyh.php?id=HubPremier4
+HubPremier5,http://318.tugu.xyz//yyh.php?id=HubPremier5
+HubPremier6,http://318.tugu.xyz//yyh.php?id=HubPremier6
+HubPremier7,http://318.tugu.xyz//yyh.php?id=HubPremier7
+松视彩虹(1)_888123,#genre#
+CCTV1,http://
